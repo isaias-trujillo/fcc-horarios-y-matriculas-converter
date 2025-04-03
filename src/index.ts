@@ -3,7 +3,7 @@ import { fixMyString } from "../types/mapRawToParsedFichas";
 import type Horario from "../types/Horario";
 import Turn from "../types/Turn.ts";
 
-const path = "horario-version-31-03.xlsx";
+const path = "src/horarios-2-de-abril.xlsx";
 
 const file = XLSX.readFile(path);
 
@@ -62,7 +62,6 @@ const rows = (XLSX.utils.sheet_to_json(ws) satisfies Horario[])
     if (a.ciclo !== b.ciclo) {
       return a.ciclo - b.ciclo;
     }
-    console.log({ a, b });
     const orden_del_turno =
       a.orden_del_turno.valueOf() - b.orden_del_turno.valueOf();
     if (orden_del_turno !== 0) {
