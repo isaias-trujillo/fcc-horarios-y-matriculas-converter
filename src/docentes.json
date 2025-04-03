@@ -1,0 +1,1262 @@
+[
+	{
+		"apellido_paterno": "ACEVEDO",
+		"apellido_materno": "MARZANO",
+		"identificacion": "08457242",
+		"nombres": "MAGLORIO"
+	},
+	{
+		"apellido_paterno": "ACOSTA",
+		"apellido_materno": "DE LA CRUZ",
+		"identificacion": "41425025",
+		"nombres": "PAOLO"
+	},
+	{
+		"apellido_paterno": "AGUADO",
+		"apellido_materno": "MALDONADO",
+		"identificacion": "09754554",
+		"nombres": "NATALIA MARIA"
+	},
+	{
+		"apellido_paterno": "AGUILAR",
+		"apellido_materno": "ESPINOZA",
+		"identificacion": "40665089",
+		"nombres": "HENRY"
+	},
+	{
+		"apellido_paterno": "AGUIRRE",
+		"apellido_materno": "ARREDONDO",
+		"identificacion": "23937445",
+		"nombres": "NANCY"
+	},
+	{
+		"apellido_paterno": "ALARCÓN",
+		"apellido_materno": "VARGAS",
+		"identificacion": "09620010",
+		"nombres": "FREDDY"
+	},
+	{
+		"apellido_paterno": "ALDAZABAL",
+		"apellido_materno": "CONTRERAS",
+		"identificacion": "09435878",
+		"nombres": "JANET CECIBEL"
+	},
+	{
+		"apellido_paterno": "ALVARADO",
+		"apellido_materno": "AZAÑA",
+		"identificacion": "43455831",
+		"nombres": "GABRIEL EDUARDO"
+	},
+	{
+		"apellido_paterno": "AMAYA",
+		"apellido_materno": "ESPINOZA",
+		"identificacion": "09889275",
+		"nombres": "JAIME ENRIQUE"
+	},
+	{
+		"apellido_paterno": "ANCAYA",
+		"apellido_materno": "CORTEZ",
+		"identificacion": "06719402",
+		"nombres": "EMILIO AGUSTÍN"
+	},
+	{
+		"apellido_paterno": "ANGULO",
+		"apellido_materno": "SILVA",
+		"identificacion": "08634939",
+		"nombres": "LUIS ÁNGEL"
+	},
+	{
+		"apellido_paterno": "ANGULO",
+		"apellido_materno": "POMIANO",
+		"identificacion": "43590201",
+		"nombres": "WILLIAM PETER"
+	},
+	{
+		"apellido_paterno": "ARCOS",
+		"apellido_materno": "BARRIGA",
+		"identificacion": "08749856",
+		"nombres": "CARLOS ANTONIO"
+	},
+	{
+		"apellido_paterno": "ARRARTE",
+		"apellido_materno": "MERA",
+		"identificacion": "08749591",
+		"nombres": "RAÚL ALBERTO"
+	},
+	{
+		"apellido_paterno": "ARRIOLA",
+		"apellido_materno": "BADARACCO",
+		"identificacion": "10472672",
+		"nombres": "ANDRES ROBERTO"
+	},
+	{
+		"apellido_paterno": "ARRUNATEGUI",
+		"apellido_materno": "AGUIRRE",
+		"identificacion": "07477074",
+		"nombres": "JUAN ANTONIO"
+	},
+	{
+		"apellido_paterno": "ASENCIOS",
+		"apellido_materno": "ESPINOZA",
+		"identificacion": "08490635",
+		"nombres": "ENCARNACION MELECIO"
+	},
+	{
+		"apellido_paterno": "AVALOS",
+		"apellido_materno": "PAREDES",
+		"identificacion": "09802838",
+		"nombres": "JUAN CARLOS"
+	},
+	{
+		"apellido_paterno": "AYALA",
+		"apellido_materno": "ZAVALA",
+		"identificacion": "09172852",
+		"nombres": "JESÚS PASCUAL"
+	},
+	{
+		"apellido_paterno": "AYALA",
+		"apellido_materno": "FLORES",
+		"identificacion": "44136672",
+		"nombres": "EVA CAROLINA"
+	},
+	{
+		"apellido_paterno": "AYALA",
+		"apellido_materno": "CALDERÓN",
+		"identificacion": "10475467",
+		"nombres": "RODRIGO HERNANDO"
+	},
+	{
+		"apellido_paterno": "BACA",
+		"apellido_materno": "MORANTE",
+		"identificacion": "08531847",
+		"nombres": "YANETTE ARMIDA"
+	},
+	{
+		"apellido_paterno": "BANCAYAN",
+		"apellido_materno": "ECHE",
+		"identificacion": "25619317",
+		"nombres": "JOSÉ TOMÁS"
+	},
+	{
+		"apellido_paterno": "BARLETTI",
+		"apellido_materno": "BALDASSARI",
+		"identificacion": "25602799",
+		"nombres": "ELIO ANTONIO"
+	},
+	{
+		"apellido_paterno": "BAZÁN",
+		"apellido_materno": "CASTILLO",
+		"identificacion": "07232552",
+		"nombres": "SANTIAGO"
+	},
+	{
+		"apellido_paterno": "BLANCO",
+		"apellido_materno": "AYALA",
+		"identificacion": "32731346",
+		"nombres": "LUIS FERNANDO"
+	},
+	{
+		"apellido_paterno": "BOBBIO",
+		"apellido_materno": "ROSAS",
+		"identificacion": "42793517",
+		"nombres": "EMILIO GUSTAVO ARTURO SANDRO EDMUNDO"
+	},
+	{
+		"apellido_paterno": "CABANILLAS",
+		"apellido_materno": "LEIVA",
+		"identificacion": "15766290",
+		"nombres": "GERARDO MANUEL"
+	},
+	{
+		"apellido_paterno": "CABRERA",
+		"apellido_materno": "LLERENA",
+		"identificacion": "10530018",
+		"nombres": "HUGO"
+	},
+	{
+		"apellido_paterno": "CÁCERES",
+		"apellido_materno": "ÁLEMAN",
+		"identificacion": "09627089",
+		"nombres": "PEDRO LUIS"
+	},
+	{
+		"apellido_paterno": "CÁCERES",
+		"apellido_materno": "CASTILLO",
+		"identificacion": "40346498",
+		"nombres": "DANNY JIMMY CLAUDIO"
+	},
+	{
+		"apellido_paterno": "CACHO",
+		"apellido_materno": "HUERTAS",
+		"identificacion": "09406568",
+		"nombres": "ROSA ENRIQUETA"
+	},
+	{
+		"apellido_paterno": "CAMUS",
+		"apellido_materno": "GRAHAM",
+		"identificacion": "07940355",
+		"nombres": "DANTE JULIAN"
+	},
+	{
+		"apellido_paterno": "CANALES",
+		"apellido_materno": "BRAVO",
+		"identificacion": "10734828",
+		"nombres": "PIERRE ANTONY"
+	},
+	{
+		"apellido_paterno": "CARAZAS",
+		"apellido_materno": "PÉREZ",
+		"identificacion": "08704900",
+		"nombres": "MIGUEL DELFIN"
+	},
+	{
+		"apellido_paterno": "CARCOVICH",
+		"apellido_materno": "SANTAMARIA",
+		"identificacion": "45303252",
+		"nombres": "JUAN ANTONIO"
+	},
+	{
+		"apellido_paterno": "CARPIO",
+		"apellido_materno": "NOLES",
+		"identificacion": "08765990",
+		"nombres": "JOSÉ JULIO"
+	},
+	{
+		"apellido_paterno": "CARREÑO",
+		"apellido_materno": "ESCOBEDO",
+		"identificacion": "33265738",
+		"nombres": "JORGE RAUL"
+	},
+	{
+		"apellido_paterno": "CASTILLO",
+		"apellido_materno": "PEBES",
+		"identificacion": "07259646",
+		"nombres": "ROBERTO JAVIER"
+	},
+	{
+		"apellido_paterno": "CAYUELA",
+		"apellido_materno": "BERRUEZO",
+		"identificacion": "001228671",
+		"nombres": "MIGUEL ANGEL"
+	},
+	{
+		"apellido_paterno": "CERNA",
+		"apellido_materno": "MAGUIÑA",
+		"identificacion": "10396333",
+		"nombres": "HÉCTOR FÉLIX"
+	},
+	{
+		"apellido_paterno": "CHÁVEZ",
+		"apellido_materno": "FLORES",
+		"identificacion": "44396128",
+		"nombres": "ERICK"
+	},
+	{
+		"apellido_paterno": "CHIPANA",
+		"apellido_materno": "TAGLE",
+		"identificacion": "21527619",
+		"nombres": "DENNIS DANIEL"
+	},
+	{
+		"apellido_paterno": "CHIPANA",
+		"apellido_materno": "PECEROS",
+		"identificacion": "07976247",
+		"nombres": "CHARITO NORMA"
+	},
+	{
+		"apellido_paterno": "CHOY",
+		"apellido_materno": "ZEVALLOS",
+		"identificacion": "06025989",
+		"nombres": "ELSA ESTHER"
+	},
+	{
+		"apellido_paterno": "CHUCHÓN",
+		"apellido_materno": "PALOMINO",
+		"identificacion": "09468830",
+		"nombres": "PERCY WALTER"
+	},
+	{
+		"apellido_paterno": "CHUMBE",
+		"apellido_materno": "RODRIGUEZ",
+		"identificacion": "40493114",
+		"nombres": "ALDO CHRISTIAN"
+	},
+	{
+		"apellido_paterno": "CHUMPITAZ",
+		"apellido_materno": "RAMOS",
+		"identificacion": "15425890",
+		"nombres": "DOMINGO GUZMÁN"
+	},
+	{
+		"apellido_paterno": "COLLANTES",
+		"apellido_materno": "NAVARRETE",
+		"identificacion": "06090425",
+		"nombres": "VÍCTOR EDUARDO"
+	},
+	{
+		"apellido_paterno": "COLLAZOS",
+		"apellido_materno": "PAUCAR",
+		"identificacion": "22997939",
+		"nombres": "EDWIN"
+	},
+	{
+		"apellido_paterno": "CORONEL",
+		"apellido_materno": "TELLO",
+		"identificacion": "70434046",
+		"nombres": "ANA EYLIN"
+	},
+	{
+		"apellido_paterno": "CRUZ",
+		"apellido_materno": "LABRIN",
+		"identificacion": "07311677",
+		"nombres": "MIGUEL"
+	},
+	{
+		"apellido_paterno": "CRUZ",
+		"apellido_materno": "ORDINOLA DE LOPEZ",
+		"identificacion": "40714072",
+		"nombres": "KARLA MARGARITA"
+	},
+	{
+		"apellido_paterno": "CUBA",
+		"apellido_materno": "ROSALES",
+		"identificacion": "47084449",
+		"nombres": "LUIS ALEXIS FERNANDO"
+	},
+	{
+		"apellido_paterno": "DE VELAZCO",
+		"apellido_materno": "BORDA",
+		"identificacion": "08243519",
+		"nombres": "JORGE LUIS"
+	},
+	{
+		"apellido_paterno": "DIAZ",
+		"apellido_materno": "FLORES",
+		"identificacion": "08532200",
+		"nombres": "GLADYS GRACIELA"
+	},
+	{
+		"apellido_paterno": "DÍAZ",
+		"apellido_materno": "HUAMAN",
+		"identificacion": "06163592",
+		"nombres": "HERNAN MARTIN"
+	},
+	{
+		"apellido_paterno": "DÍAZ",
+		"apellido_materno": "PEREZ",
+		"identificacion": "41179692",
+		"nombres": "FERNANDO SANTIAGO"
+	},
+	{
+		"apellido_paterno": "ECHEVARRIA",
+		"apellido_materno": "MEJIA",
+		"identificacion": "09387300",
+		"nombres": "VICTOR JAVIER"
+	},
+	{
+		"apellido_paterno": "ELIAS",
+		"apellido_materno": "RAMOS",
+		"identificacion": "10875836",
+		"nombres": "ALAN PATRICK"
+	},
+	{
+		"apellido_paterno": "ESPINOZA",
+		"apellido_materno": "VALENZUELA",
+		"identificacion": "07335395",
+		"nombres": "ALBERTO BENJAMIN"
+	},
+	{
+		"apellido_paterno": "ESQUIVES",
+		"apellido_materno": "CHUNGA",
+		"identificacion": "08510968",
+		"nombres": "NANCY MARGOT"
+	},
+	{
+		"apellido_paterno": "FAUSTINO",
+		"apellido_materno": "SANCHEZ",
+		"identificacion": "45711812",
+		"nombres": "MIGUEL ANGEL"
+	},
+	{
+		"apellido_paterno": "FERRADAS",
+		"apellido_materno": "MARTINEZ",
+		"identificacion": "18165664",
+		"nombres": "MONICA DE LOURDES"
+	},
+	{
+		"apellido_paterno": "FLORES",
+		"apellido_materno": "KONJA",
+		"identificacion": "10477034",
+		"nombres": "ADRIÁN ALEJANDRO"
+	},
+	{
+		"apellido_paterno": "GARCIA",
+		"apellido_materno": "PERALTA",
+		"identificacion": "02406261",
+		"nombres": "JORGE"
+	},
+	{
+		"apellido_paterno": "GARCÍA",
+		"apellido_materno": "VILLEGAS",
+		"identificacion": "08628745",
+		"nombres": "EMILIO GABRIEL"
+	},
+	{
+		"apellido_paterno": "GAVELÁN",
+		"apellido_materno": "GAMARRA",
+		"identificacion": "10659329",
+		"nombres": "JORGE JAVIER"
+	},
+	{
+		"apellido_paterno": "GIRALDES",
+		"apellido_materno": "CONDORI",
+		"identificacion": "43508177",
+		"nombres": "JOSÉ LUÍS"
+	},
+	{
+		"apellido_paterno": "GOMERO",
+		"apellido_materno": "GONZÁLES",
+		"identificacion": "08300001",
+		"nombres": "NICKO ALBERTO"
+	},
+	{
+		"apellido_paterno": "GONZALES",
+		"apellido_materno": "MEZA",
+		"identificacion": "09075687",
+		"nombres": "ARNALDO VESALIO"
+	},
+	{
+		"apellido_paterno": "GRANDA",
+		"apellido_materno": "CARAZAS",
+		"identificacion": "07215878",
+		"nombres": "SEGUNDO ELOY"
+	},
+	{
+		"apellido_paterno": "GUTIERREZ",
+		"apellido_materno": "CARRILLO",
+		"identificacion": "06115870",
+		"nombres": "JESUS JAVIER"
+	},
+	{
+		"apellido_paterno": "GUZMAN",
+		"apellido_materno": "SOTELO",
+		"identificacion": "45926178",
+		"nombres": "CARMEN"
+	},
+	{
+		"apellido_paterno": "GUZMÁN",
+		"apellido_materno": "REA",
+		"identificacion": "44528250",
+		"nombres": "OMAR STEVENSON"
+	},
+	{
+		"apellido_paterno": "HARO",
+		"apellido_materno": "LIZANO",
+		"identificacion": "08541406",
+		"nombres": "TERESA CONSUELO"
+	},
+	{
+		"apellido_paterno": "HENNINGS",
+		"apellido_materno": "OTOYA",
+		"identificacion": "08806920",
+		"nombres": "JULIO ALBERTO"
+	},
+	{
+		"apellido_paterno": "HERNANDEZ",
+		"apellido_materno": "IGLESIAS",
+		"identificacion": "10729502",
+		"nombres": "MIGUEL OMAR"
+	},
+	{
+		"apellido_paterno": "HERRERA",
+		"apellido_materno": "GARCÍA",
+		"identificacion": "10306364",
+		"nombres": "BEATRÍZ"
+	},
+	{
+		"apellido_paterno": "HIDALGO",
+		"apellido_materno": "TUPIA",
+		"identificacion": "08461950",
+		"nombres": "MANUEL ALBERTO"
+	},
+	{
+		"apellido_paterno": "HIDALGO",
+		"apellido_materno": "CRISTOBAL",
+		"identificacion": "42011468",
+		"nombres": "DODANIM LUZMILA"
+	},
+	{
+		"apellido_paterno": "HUAMAN",
+		"apellido_materno": "SIALER",
+		"identificacion": "10146097",
+		"nombres": "MARCO ANTONIO"
+	},
+	{
+		"apellido_paterno": "INGA",
+		"apellido_materno": "LINDO",
+		"identificacion": "10141288",
+		"nombres": "DINA CHELA"
+	},
+	{
+		"apellido_paterno": "JAVIER",
+		"apellido_materno": "MELGAREJO",
+		"identificacion": "06139486",
+		"nombres": "LEONCIO"
+	},
+	{
+		"apellido_paterno": "JOAQUIN",
+		"apellido_materno": "BAUTISTA",
+		"identificacion": "21561467",
+		"nombres": "SHARIF ARTURO"
+	},
+	{
+		"apellido_paterno": "JULCA",
+		"apellido_materno": "JARA",
+		"identificacion": "08612180",
+		"nombres": "DALMACIO MODESTO"
+	},
+	{
+		"apellido_paterno": "LAURO",
+		"apellido_materno": "GAMARRA",
+		"identificacion": "09942870",
+		"nombres": "ARTURO GELIO"
+	},
+	{
+		"apellido_paterno": "LAZARTE",
+		"apellido_materno": "ARANGUERAN",
+		"identificacion": "43010310",
+		"nombres": "LUIS"
+	},
+	{
+		"apellido_paterno": "LAZO",
+		"apellido_materno": "CHUCOS",
+		"identificacion": "20076242",
+		"nombres": "GILMER"
+	},
+	{
+		"apellido_paterno": "LEÓN",
+		"apellido_materno": "MARTINEZ",
+		"identificacion": "09601943",
+		"nombres": "DAVID CIRILO"
+	},
+	{
+		"apellido_paterno": "LEÓN",
+		"apellido_materno": "PACHECO",
+		"identificacion": "07526975",
+		"nombres": "ROBERTO JULIO"
+	},
+	{
+		"apellido_paterno": "LEVANO",
+		"apellido_materno": "VICENTE ",
+		"identificacion": "06694093",
+		"nombres": "CLARA CLAUDINA"
+	},
+	{
+		"apellido_paterno": "LI",
+		"apellido_materno": "CHAN",
+		"identificacion": "07500777",
+		"nombres": "AUGUSTO"
+	},
+	{
+		"apellido_paterno": "LLAVE",
+		"apellido_materno": "ANGULO",
+		"identificacion": "47206157",
+		"nombres": "IRVIN"
+	},
+	{
+		"apellido_paterno": "LOLI",
+		"apellido_materno": "BONILLA",
+		"identificacion": "25406615",
+		"nombres": "CESAR ENRIQUE"
+	},
+	{
+		"apellido_paterno": "LÓPEZ",
+		"apellido_materno": "VALERA",
+		"identificacion": "08347905",
+		"nombres": "INÉS"
+	},
+	{
+		"apellido_paterno": "LOZADA",
+		"apellido_materno": "PEDRAZA",
+		"identificacion": "41882494",
+		"nombres": "IVAN GONZALO"
+	},
+	{
+		"apellido_paterno": "LOZANO",
+		"apellido_materno": "LIMAIMANTA",
+		"identificacion": "07968835",
+		"nombres": "CACIANO TOMAS"
+	},
+	{
+		"apellido_paterno": "MAGUIÑO",
+		"apellido_materno": "YARANGA",
+		"identificacion": "72531782",
+		"nombres": "MARIO ALEXIS"
+	},
+	{
+		"apellido_paterno": "MARCELO",
+		"apellido_materno": "MALLQUI",
+		"identificacion": "10880148",
+		"nombres": "MARCO ANTONIO"
+	},
+	{
+		"apellido_paterno": "MARTINEZ",
+		"apellido_materno": "CONTRERAS",
+		"identificacion": "08888051",
+		"nombres": "YSRAEL ALBERTO"
+	},
+	{
+		"apellido_paterno": "MASCARÓ",
+		"apellido_materno": "COLLANTES",
+		"identificacion": "07409884",
+		"nombres": "GUILLERMO JUAN"
+	},
+	{
+		"apellido_paterno": "MASUDA",
+		"apellido_materno": "TOYOFUKU",
+		"identificacion": "09147786",
+		"nombres": "VICTOR RICARDO"
+	},
+	{
+		"apellido_paterno": "MAYOR",
+		"apellido_materno": "GAMERO",
+		"identificacion": "07844694",
+		"nombres": "JUAN GUILLERMO"
+	},
+	{
+		"apellido_paterno": "MEDINA",
+		"apellido_materno": "VIGO",
+		"identificacion": "09156053",
+		"nombres": "MARCIAL ANTONIO"
+	},
+	{
+		"apellido_paterno": "MELGAR",
+		"apellido_materno": "ESQUIVEL",
+		"identificacion": "42009236",
+		"nombres": "EDITH CARLA"
+	},
+	{
+		"apellido_paterno": "MELGAREJO",
+		"apellido_materno": "MORALES",
+		"identificacion": "08606209",
+		"nombres": "JAVIER RICARDO"
+	},
+	{
+		"apellido_paterno": "MENDOZA",
+		"apellido_materno": "PEREZ",
+		"identificacion": "31677023",
+		"nombres": "RAÚL"
+	},
+	{
+		"apellido_paterno": "MENDOZA",
+		"apellido_materno": "TORRES",
+		"identificacion": "08701208",
+		"nombres": "CARLOS ROBERTO"
+	},
+	{
+		"apellido_paterno": "MEZA",
+		"apellido_materno": "INGAR",
+		"identificacion": "06124127",
+		"nombres": "CARMEN"
+	},
+	{
+		"apellido_paterno": "MICHUE",
+		"apellido_materno": "SALGUEDO",
+		"identificacion": "08421482",
+		"nombres": "EFREN SILVERIO"
+	},
+	{
+		"apellido_paterno": "MICHUE",
+		"apellido_materno": "BOHORQUEZ",
+		"identificacion": "40810886",
+		"nombres": "JACKELINE ANDREA"
+	},
+	{
+		"apellido_paterno": "MIRANDA",
+		"apellido_materno": "AVALOS",
+		"identificacion": "42896086",
+		"nombres": "SONIA JACKELINE"
+	},
+	{
+		"apellido_paterno": "MOGROVEJO",
+		"apellido_materno": "ESPINOZA",
+		"identificacion": "08519968",
+		"nombres": "MARTÍN EDMUNDO"
+	},
+	{
+		"apellido_paterno": "MONCADA",
+		"apellido_materno": "OCHOA",
+		"identificacion": "07684319",
+		"nombres": "EDWIN SIXTO"
+	},
+	{
+		"apellido_paterno": "MONTERROSO",
+		"apellido_materno": "UNUYSUNCCO",
+		"identificacion": "07515921",
+		"nombres": "NILDA IRMA"
+	},
+	{
+		"apellido_paterno": "NAMOC",
+		"apellido_materno": "CLAUDIO",
+		"identificacion": "09915085",
+		"nombres": "JOSÉ LUIS"
+	},
+	{
+		"apellido_paterno": "NAPAN",
+		"apellido_materno": "VERA",
+		"identificacion": "25744221",
+		"nombres": "ALBERTO FERNANDO"
+	},
+	{
+		"apellido_paterno": "NAVARRETE",
+		"apellido_materno": "HONDERMAN",
+		"identificacion": "10493924",
+		"nombres": "REINEL"
+	},
+	{
+		"apellido_paterno": "NEYRA",
+		"apellido_materno": "URQUIZA",
+		"identificacion": "04792128",
+		"nombres": "ROBERTO BERNARDINO"
+	},
+	{
+		"apellido_paterno": "NEYRA",
+		"apellido_materno": "URQUIZA",
+		"identificacion": "00479212",
+		"nombres": "ROBERTO BERNARDINO"
+	},
+	{
+		"apellido_paterno": "OBREGÓN",
+		"apellido_materno": "NICOLAS",
+		"identificacion": "10350115",
+		"nombres": "KARIM GRACE"
+	},
+	{
+		"apellido_paterno": "O'DIANA",
+		"apellido_materno": "VALDEZ",
+		"identificacion": "30835602",
+		"nombres": "PETER RICHARD"
+	},
+	{
+		"apellido_paterno": "ORELLANO",
+		"apellido_materno": "ANTUNEZ",
+		"identificacion": "09610135",
+		"nombres": "JUAN CARLOS"
+	},
+	{
+		"apellido_paterno": "ORELLANO",
+		"apellido_materno": "ANTUNEZ",
+		"identificacion": "09915978",
+		"nombres": "JULIO FLORENTINO"
+	},
+	{
+		"apellido_paterno": "ORNA",
+		"apellido_materno": "BARILLAS",
+		"identificacion": "07223810",
+		"nombres": "JESUS MARTÍN"
+	},
+	{
+		"apellido_paterno": "OROSCO",
+		"apellido_materno": "GUADALUPE",
+		"identificacion": "45820854",
+		"nombres": "ROGER FERNANDO"
+	},
+	{
+		"apellido_paterno": "ORTIZ",
+		"apellido_materno": "BURGA",
+		"identificacion": "06033571",
+		"nombres": "ARTURO GUILLERMO"
+	},
+	{
+		"apellido_paterno": "OSCANÓA",
+		"apellido_materno": "PONCE",
+		"identificacion": "47889743",
+		"nombres": "BILL FRANK"
+	},
+	{
+		"apellido_paterno": "OVIEDO",
+		"apellido_materno": "VELASQUEZ",
+		"identificacion": "09538852",
+		"nombres": "PABLO RAÚL"
+	},
+	{
+		"apellido_paterno": "PACHERRES",
+		"apellido_materno": "RAMIREZ",
+		"identificacion": "07453349",
+		"nombres": "MARCOS ANTONIO"
+	},
+	{
+		"apellido_paterno": "PAJUELO",
+		"apellido_materno": "CHAUCA",
+		"identificacion": "08260467",
+		"nombres": "FELIX HIPÓLITO"
+	},
+	{
+		"apellido_paterno": "PALOMINO",
+		"apellido_materno": "SILVA",
+		"identificacion": "06735001",
+		"nombres": "JULIO ANDRÉS"
+	},
+	{
+		"apellido_paterno": "PALOMINO",
+		"apellido_materno": "ALCA",
+		"identificacion": "08534797",
+		"nombres": "JULIA TERESA"
+	},
+	{
+		"apellido_paterno": "PASTOR",
+		"apellido_materno": "CARRASCO",
+		"identificacion": "06996479",
+		"nombres": "CARLOS ALBERTO"
+	},
+	{
+		"apellido_paterno": "PECHO",
+		"apellido_materno": "RAFAEL",
+		"identificacion": "19926857",
+		"nombres": "MÉLIDA HERLINDA"
+	},
+	{
+		"apellido_paterno": "PÉREZ",
+		"apellido_materno": "MORE",
+		"identificacion": "06158179",
+		"nombres": "SILVIA YOLANDA"
+	},
+	{
+		"apellido_paterno": "PÉREZ",
+		"apellido_materno": "CASTILLO",
+		"identificacion": "08059437",
+		"nombres": "JAVIER JESÚS"
+	},
+	{
+		"apellido_paterno": "PICHARDO",
+		"apellido_materno": "LUJAN",
+		"identificacion": "42713743",
+		"nombres": "CARMEN ELIANA"
+	},
+	{
+		"apellido_paterno": "PILAR",
+		"apellido_materno": "AMPARO",
+		"identificacion": "44752092",
+		"nombres": "LUCIO PONCE"
+	},
+	{
+		"apellido_paterno": "PIMENTEL",
+		"apellido_materno": "TIRADO",
+		"identificacion": "40607194",
+		"nombres": "YAISH"
+	},
+	{
+		"apellido_paterno": "PINEDA",
+		"apellido_materno": "YAROS",
+		"identificacion": "42528310",
+		"nombres": "WILBER"
+	},
+	{
+		"apellido_paterno": "PINTO",
+		"apellido_materno": "CASTRO",
+		"identificacion": "08843084",
+		"nombres": "JOSE FRANCISCO"
+	},
+	{
+		"apellido_paterno": "PLASENCIA",
+		"apellido_materno": "LI",
+		"identificacion": "40962531",
+		"nombres": "GUILLERMO DANIEL"
+	},
+	{
+		"apellido_paterno": "PONCE",
+		"apellido_materno": "MALUQUISH",
+		"identificacion": "09474851",
+		"nombres": "LUISA GRACIELA"
+	},
+	{
+		"apellido_paterno": "PORRAS",
+		"apellido_materno": "AGUIRRE",
+		"identificacion": "08862094",
+		"nombres": "ROSARIO EUGENIA"
+	},
+	{
+		"apellido_paterno": "QUESQUÉN",
+		"apellido_materno": "ALARCÓN",
+		"identificacion": "09973630",
+		"nombres": "ERICK FELIX"
+	},
+	{
+		"apellido_paterno": "QUICAÑO",
+		"apellido_materno": "TENORIO",
+		"identificacion": "09859071",
+		"nombres": "MARCOS ANTONIO"
+	},
+	{
+		"apellido_paterno": "QUIROZ",
+		"apellido_materno": "PONCE",
+		"identificacion": "06996966",
+		"nombres": "FERNANDO ESTEBAN"
+	},
+	{
+		"apellido_paterno": "QUISPE",
+		"apellido_materno": "SANCHEZ",
+		"identificacion": "09284664",
+		"nombres": "NORMA"
+	},
+	{
+		"apellido_paterno": "RAMIREZ",
+		"apellido_materno": "CHACPI",
+		"identificacion": "10070847",
+		"nombres": "PERCY EFRAIN"
+	},
+	{
+		"apellido_paterno": "RAMIREZ",
+		"apellido_materno": "CALDERÓN",
+		"identificacion": "06776978",
+		"nombres": "LUIS ENRIQUE"
+	},
+	{
+		"apellido_paterno": "RAMON",
+		"apellido_materno": "SAKURAY",
+		"identificacion": "43527111",
+		"nombres": "JULIO CESAR"
+	},
+	{
+		"apellido_paterno": "RAMOS",
+		"apellido_materno": "REYES",
+		"identificacion": "43762324",
+		"nombres": "JOSHEP IVÁN"
+	},
+	{
+		"apellido_paterno": "RENGIFO",
+		"apellido_materno": "LOZANO",
+		"identificacion": "07537379",
+		"nombres": "RAUL ALBERTO"
+	},
+	{
+		"apellido_paterno": "RENGIFO",
+		"apellido_materno": "ALEGRÍA",
+		"identificacion": "10000214",
+		"nombres": "ALBERTO JUAN CARLOS"
+	},
+	{
+		"apellido_paterno": "REVILLA",
+		"apellido_materno": "RETO",
+		"identificacion": "06683785",
+		"nombres": "RAFAEL HUMBERTO"
+	},
+	{
+		"apellido_paterno": "REYES",
+		"apellido_materno": "NARVAEZ",
+		"identificacion": "17951991",
+		"nombres": "RONALD JUVEN"
+	},
+	{
+		"apellido_paterno": "RODRIGUEZ",
+		"apellido_materno": "GAVILANO",
+		"identificacion": "42215480",
+		"nombres": "MARVIN"
+	},
+	{
+		"apellido_paterno": "RODRÍGUEZ",
+		"apellido_materno": "CAIRO",
+		"identificacion": "10588725",
+		"nombres": "VLADIMIR"
+	},
+	{
+		"apellido_paterno": "ROJAS",
+		"apellido_materno": "SALDÍVAR",
+		"identificacion": "01317302",
+		"nombres": "CARLOS EDWIN"
+	},
+	{
+		"apellido_paterno": "ROLDÁN",
+		"apellido_materno": "FLORES",
+		"identificacion": "09742258",
+		"nombres": "OMAR ABDEL"
+	},
+	{
+		"apellido_paterno": "ROMERO",
+		"apellido_materno": "HUAMANI",
+		"identificacion": "40723196",
+		"nombres": "RUTH MIRIHAN"
+	},
+	{
+		"apellido_paterno": "ROMERO",
+		"apellido_materno": "LARRREATEGUI",
+		"identificacion": "40578805",
+		"nombres": "EDWARD FREDERIK"
+	},
+	{
+		"apellido_paterno": "ROMERO",
+		"apellido_materno": "CERNA",
+		"identificacion": "25559400",
+		"nombres": "JOSÉ SALVADOR"
+	},
+	{
+		"apellido_paterno": "ROSALES",
+		"apellido_materno": "CHIPANA",
+		"identificacion": "09903863",
+		"nombres": "GIL MEYER"
+	},
+	{
+		"apellido_paterno": "ROSARIO",
+		"apellido_materno": "LOPEZ",
+		"identificacion": "41006771",
+		"nombres": "FLOR ESTHER"
+	},
+	{
+		"apellido_paterno": "ROZAS",
+		"apellido_materno": "FLORES",
+		"identificacion": "10557884",
+		"nombres": "ALAN ERROL"
+	},
+	{
+		"apellido_paterno": "SAAVEDRA",
+		"apellido_materno": "TARMEÑO",
+		"identificacion": "06200373",
+		"nombres": "ELI ENRIQUE"
+	},
+	{
+		"apellido_paterno": "SALAZAR",
+		"apellido_materno": "VARGAS",
+		"identificacion": "06055907",
+		"nombres": "MONICA BETSABE"
+	},
+	{
+		"apellido_paterno": "SALAZAR",
+		"apellido_materno": "ORMEÑO",
+		"identificacion": "46094591",
+		"nombres": "ROLANDO JUAN JOSE"
+	},
+	{
+		"apellido_paterno": "SALAZAR",
+		"apellido_materno": "FRISANCHO",
+		"identificacion": "06761136",
+		"nombres": "ANGEL ROBERTO"
+	},
+	{
+		"apellido_paterno": "SALAZAR",
+		"apellido_materno": "PAZ",
+		"identificacion": "09554450",
+		"nombres": "WILFREDO OCTAVIO"
+	},
+	{
+		"apellido_paterno": "SÁNCHEZ",
+		"apellido_materno": "CRUZ",
+		"identificacion": "08686743",
+		"nombres": "DAVID JUAN"
+	},
+	{
+		"apellido_paterno": "SÁNCHEZ",
+		"apellido_materno": "BARRAZA",
+		"identificacion": "09594228",
+		"nombres": "BERNARDO JAVIER"
+	},
+	{
+		"apellido_paterno": "SAN JUAN",
+		"apellido_materno": "LEZAMA",
+		"identificacion": "09323545",
+		"nombres": "HERMINIO GRIMALDO"
+	},
+	{
+		"apellido_paterno": "SANTA CRUZ",
+		"apellido_materno": "MIRANDA",
+		"identificacion": "08199826",
+		"nombres": "ADOLFO"
+	},
+	{
+		"apellido_paterno": "SIERRA",
+		"apellido_materno": "CONTRERAS",
+		"identificacion": "08867752",
+		"nombres": "ABELARDO ZENÓN"
+	},
+	{
+		"apellido_paterno": "SORIA",
+		"apellido_materno": "SAAVEDRA",
+		"identificacion": "41539725",
+		"nombres": "JONATHAN"
+	},
+	{
+		"apellido_paterno": "TABOADA",
+		"apellido_materno": "SANTIAGO",
+		"identificacion": "40232584",
+		"nombres": "GIAN ANTONIO"
+	},
+	{
+		"apellido_paterno": "TALLA",
+		"apellido_materno": "RAMOS",
+		"identificacion": "06213891",
+		"nombres": "SABINO"
+	},
+	{
+		"apellido_paterno": "TANTALEAN",
+		"apellido_materno": "VALIENTE",
+		"identificacion": "09897367",
+		"nombres": "ADOLFO GUSTAVO"
+	},
+	{
+		"apellido_paterno": "TAPIA",
+		"apellido_materno": "BARBOZA",
+		"identificacion": "08141796",
+		"nombres": "WILMER"
+	},
+	{
+		"apellido_paterno": "TENORIO",
+		"apellido_materno": "MÉNDEZ",
+		"identificacion": "07585542",
+		"nombres": "WALTER ORLANDO"
+	},
+	{
+		"apellido_paterno": "TIPE",
+		"apellido_materno": "TORVISCO",
+		"identificacion": "09367374",
+		"nombres": "RICHARD"
+	},
+	{
+		"apellido_paterno": "TORRES",
+		"apellido_materno": "RODRIGUEZ",
+		"identificacion": "19849117",
+		"nombres": "AGUSTINA CARMELA"
+	},
+	{
+		"apellido_paterno": "TORRES",
+		"apellido_materno": "VILLANUEVA",
+		"identificacion": "07628586",
+		"nombres": "MARÍA DEL SOCORRO CANDELARIA"
+	},
+	{
+		"apellido_paterno": "TORRES",
+		"apellido_materno": "RAMIREZ",
+		"identificacion": "06037364",
+		"nombres": "JAIME BERNABEL"
+	},
+	{
+		"apellido_paterno": "UCEDA",
+		"apellido_materno": "VARGAS",
+		"identificacion": "18215417",
+		"nombres": "JUAN CARLOS"
+	},
+	{
+		"apellido_paterno": "URBANO",
+		"apellido_materno": "VENTOCILLA",
+		"identificacion": "06708657",
+		"nombres": "CÉSAR MAXIMILIANO"
+	},
+	{
+		"apellido_paterno": "VALDIVIA",
+		"apellido_materno": "RAMOS",
+		"identificacion": "07912232",
+		"nombres": "ROMÁN ARTURO"
+	},
+	{
+		"apellido_paterno": "VALENCIA",
+		"apellido_materno": "GUTIERREZ",
+		"identificacion": "09036014",
+		"nombres": "GUTIÉRREZ ADOLFO"
+	},
+	{
+		"apellido_paterno": "VARGAS",
+		"apellido_materno": "MONTEJO",
+		"identificacion": "00993325",
+		"nombres": "CARMELA"
+	},
+	{
+		"apellido_paterno": "VASQUEZ",
+		"apellido_materno": "TARAZONA",
+		"identificacion": "06784373",
+		"nombres": "CATYA EVELYN"
+	},
+	{
+		"apellido_paterno": "VÁSQUEZ",
+		"apellido_materno": "RODRÍGUEZ",
+		"identificacion": "43204504",
+		"nombres": "WAR ANTONIO"
+	},
+	{
+		"apellido_paterno": "VERÁSTEGUI",
+		"apellido_materno": "CORRALES",
+		"identificacion": "25602440",
+		"nombres": "CLEOFÉ MARITZA"
+	},
+	{
+		"apellido_paterno": "VERÁSTEGUI",
+		"apellido_materno": "HUANCA",
+		"identificacion": "43985566",
+		"nombres": "LUCIO LEO"
+	},
+	{
+		"apellido_paterno": "VERGARA",
+		"apellido_materno": "MONCADA",
+		"identificacion": "15585212",
+		"nombres": "RAÚL JESÚS"
+	},
+	{
+		"apellido_paterno": "VERGARA",
+		"apellido_materno": "CABADA",
+		"identificacion": "32984943",
+		"nombres": "RUDITH MARIA"
+	},
+	{
+		"apellido_paterno": "VILCHEZ",
+		"apellido_materno": "OLIVARES",
+		"identificacion": "07712178",
+		"nombres": "PERCY ANTONIO"
+	},
+	{
+		"apellido_paterno": "VILLACORTA",
+		"apellido_materno": "CAVERO",
+		"identificacion": "06066310",
+		"nombres": "ARMANDO MANUEL"
+	},
+	{
+		"apellido_paterno": "VILLANUEVA",
+		"apellido_materno": "IPANAQUÉ",
+		"identificacion": "06070105",
+		"nombres": "CARMEN ISABEL"
+	},
+	{
+		"apellido_paterno": "VIZCARRA",
+		"apellido_materno": "DOMINGUEZ",
+		"identificacion": "08627589",
+		"nombres": "LUIS ARTURO"
+	},
+	{
+		"apellido_paterno": "WONG",
+		"apellido_materno": "TORRES",
+		"identificacion": "08732242",
+		"nombres": "ZELMA"
+	},
+	{
+		"apellido_paterno": "YACOLCA",
+		"apellido_materno": "ESTARES",
+		"identificacion": "09328052",
+		"nombres": "DANIEL IRWIN"
+	},
+	{
+		"apellido_paterno": "YARANGA",
+		"apellido_materno": "CAHUANA",
+		"identificacion": "42315477",
+		"nombres": "LUIS ANTONIO"
+	},
+	{
+		"apellido_paterno": "YUPANQUI",
+		"apellido_materno": "VALVERDE",
+		"identificacion": "10198139",
+		"nombres": "YRMA NELLY"
+	},
+	{
+		"apellido_paterno": "ZABALETA",
+		"apellido_materno": "MUÑOZ",
+		"identificacion": "10085582",
+		"nombres": "ALIDA"
+	},
+	{
+		"apellido_paterno": "ZAMORA",
+		"apellido_materno": "RAMOS",
+		"identificacion": "09330913",
+		"nombres": "ULISES JOSÉ"
+	},
+	{
+		"apellido_paterno": "ZUÑIGA",
+		"apellido_materno": "HERMOSA",
+		"identificacion": "23929930",
+		"nombres": "DANITZA"
+	}
+]
