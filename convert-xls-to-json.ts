@@ -1,6 +1,6 @@
 import { readFile, utils } from "xlsx";
 
-const path = "horarios-03-04.xlsx";
+const path = "horarios-04-04.xlsx";
 
 const file = readFile(path);
 
@@ -20,4 +20,4 @@ const rows = utils
   .sheet_to_json(ws)
   .filter((a) => !("¿Es un grupo de rectificacion?" in a));
 
-Bun.write("converted/horarios-03-04.json", JSON.stringify(rows));
+Bun.write("converted/horarios-04-04.json", JSON.stringify(rows));
