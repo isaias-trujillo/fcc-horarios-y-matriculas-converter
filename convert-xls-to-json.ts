@@ -1,6 +1,7 @@
 import { readFile, utils } from "xlsx";
 
-const path = "data-de-prueba-de-recti.xlsx";
+const filename = "data-de-prueba-de-recti";
+const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
 
@@ -20,4 +21,4 @@ const rows = utils
   .sheet_to_json(ws)
   .filter((a) => a.rectificacion === true);
 
-Bun.write("converted/data-de-prueba-de-recti.json", JSON.stringify(rows));
+Bun.write(`result/${filename}.json`, JSON.stringify(rows));
