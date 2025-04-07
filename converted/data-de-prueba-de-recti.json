@@ -11,10 +11,13 @@
     "apellido_materno": "ÁLEMAN",
     "nombres": "PEDRO LUIS",
     "rectificacion": true,
-    "código de curso de referencia": 113353,
-    "sección de referencia": 1,
-    "aula de referencia": "406-M",
-    "docente de referencia": "09627089"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113353,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "406-M",
+    "docente_de_referencia": "09627089"
   },
   {
     "ciclo": 3,
@@ -28,10 +31,13 @@
     "apellido_materno": "TORRES",
     "nombres": "CARLOS ROBERTO",
     "rectificacion": true,
-    "código de curso de referencia": 113349,
-    "sección de referencia": 1,
-    "aula de referencia": "406-M",
-    "docente de referencia": "08701208"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113349,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "406-M",
+    "docente_de_referencia": "08701208"
   },
   {
     "ciclo": 3,
@@ -45,10 +51,13 @@
     "apellido_materno": "VERA",
     "nombres": "ALBERTO FERNANDO",
     "rectificacion": true,
-    "código de curso de referencia": 113350,
-    "sección de referencia": 1,
-    "aula de referencia": "406-M",
-    "docente de referencia": "25744221"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113350,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "406-M",
+    "docente_de_referencia": "25744221"
   },
   {
     "ciclo": 3,
@@ -62,10 +71,13 @@
     "apellido_materno": "MÉNDEZ",
     "nombres": "WALTER ORLANDO",
     "rectificacion": true,
-    "código de curso de referencia": 113352,
-    "sección de referencia": 1,
-    "aula de referencia": "406-M",
-    "docente de referencia": "07585542"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113352,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "406-M",
+    "docente_de_referencia": "07585542"
   },
   {
     "ciclo": 3,
@@ -79,10 +91,13 @@
     "apellido_materno": "VILLANUEVA",
     "nombres": "MARÍA DEL SOCORRO CANDELARIA",
     "rectificacion": true,
-    "código de curso de referencia": 113354,
-    "sección de referencia": 1,
-    "aula de referencia": "406-M",
-    "docente de referencia": "07628586"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113354,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "406-M",
+    "docente_de_referencia": "07628586"
   },
   {
     "ciclo": 3,
@@ -96,10 +111,13 @@
     "apellido_materno": "MONCADA",
     "nombres": "RAÚL JESÚS",
     "rectificacion": true,
-    "código de curso de referencia": 113355,
-    "sección de referencia": 1,
-    "aula de referencia": "406-M",
-    "docente de referencia": "15585212"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113355,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "406-M",
+    "docente_de_referencia": "15585212"
   },
   {
     "ciclo": 3,
@@ -113,10 +131,13 @@
     "apellido_materno": "DE LA CRUZ",
     "nombres": "PAOLO",
     "rectificacion": true,
-    "código de curso de referencia": 113355,
-    "sección de referencia": 2,
-    "aula de referencia": "407-M",
-    "docente de referencia": "41425025"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113355,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "407-M",
+    "docente_de_referencia": "41425025"
   },
   {
     "ciclo": 3,
@@ -130,10 +151,13 @@
     "apellido_materno": "CONTRERAS",
     "nombres": "JANET CECIBEL",
     "rectificacion": true,
-    "código de curso de referencia": 113350,
-    "sección de referencia": 2,
-    "aula de referencia": "407-M",
-    "docente de referencia": "09435878"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113350,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "407-M",
+    "docente_de_referencia": "09435878"
   },
   {
     "ciclo": 3,
@@ -147,10 +171,13 @@
     "apellido_materno": "CALDERÓN",
     "nombres": "RODRIGO HERNANDO",
     "rectificacion": true,
-    "código de curso de referencia": 113353,
-    "sección de referencia": 2,
-    "aula de referencia": "407-M",
-    "docente de referencia": "10475467"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113353,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "407-M",
+    "docente_de_referencia": "10475467"
   },
   {
     "ciclo": 3,
@@ -164,10 +191,13 @@
     "apellido_materno": "ESCOBEDO",
     "nombres": "JORGE RAUL",
     "rectificacion": true,
-    "código de curso de referencia": 113351,
-    "sección de referencia": 2,
-    "aula de referencia": "407-M",
-    "docente de referencia": "33265738"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113351,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "407-M",
+    "docente_de_referencia": "33265738"
   },
   {
     "ciclo": 3,
@@ -181,10 +211,13 @@
     "apellido_materno": "PEREZ",
     "nombres": "RAÚL",
     "rectificacion": true,
-    "código de curso de referencia": 113349,
-    "sección de referencia": 2,
-    "aula de referencia": "407-M",
-    "docente de referencia": "31677023"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113349,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "407-M",
+    "docente_de_referencia": "31677023"
   },
   {
     "ciclo": 5,
@@ -198,10 +231,13 @@
     "apellido_materno": "PAUCAR",
     "nombres": "EDWIN",
     "rectificacion": true,
-    "código de curso de referencia": 113551,
-    "sección de referencia": 2,
-    "aula de referencia": "413-M",
-    "docente de referencia": "22997939"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113551,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "413-M",
+    "docente_de_referencia": "22997939"
   },
   {
     "ciclo": 5,
@@ -215,10 +251,13 @@
     "apellido_materno": "LOZANO",
     "nombres": "RAUL ALBERTO",
     "rectificacion": true,
-    "código de curso de referencia": 113552,
-    "sección de referencia": 2,
-    "aula de referencia": "413-M",
-    "docente de referencia": "07537379"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113552,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "413-M",
+    "docente_de_referencia": "07537379"
   },
   {
     "ciclo": 5,
@@ -232,10 +271,13 @@
     "apellido_materno": "GAMERO",
     "nombres": "JUAN GUILLERMO",
     "rectificacion": true,
-    "código de curso de referencia": 113551,
-    "sección de referencia": 3,
-    "aula de referencia": "411-T",
-    "docente de referencia": "07844694"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113551,
+    "seccion_de_referencia": 3,
+    "aula_de_referencia": "411-T",
+    "docente_de_referencia": "07844694"
   },
   {
     "ciclo": 7,
@@ -249,10 +291,13 @@
     "apellido_materno": "RETO",
     "nombres": "RAFAEL HUMBERTO",
     "rectificacion": true,
-    "código de curso de referencia": 113756,
-    "sección de referencia": 1,
-    "aula de referencia": "313-N",
-    "docente de referencia": "06683785"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113756,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "313-N",
+    "docente_de_referencia": "06683785"
   },
   {
     "ciclo": 7,
@@ -266,10 +311,13 @@
     "apellido_materno": "RETO",
     "nombres": "RAFAEL HUMBERTO",
     "rectificacion": true,
-    "código de curso de referencia": 113756,
-    "sección de referencia": 3,
-    "aula de referencia": "403-N",
-    "docente de referencia": "06683785"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 113756,
+    "seccion_de_referencia": 3,
+    "aula_de_referencia": "403-N",
+    "docente_de_referencia": "06683785"
   },
   {
     "ciclo": 1,
@@ -283,10 +331,13 @@
     "apellido_materno": "TORVISCO",
     "nombres": "RICHARD",
     "rectificacion": true,
-    "código de curso de referencia": 111146,
-    "sección de referencia": 1,
-    "aula de referencia": "300-M",
-    "docente de referencia": "09367374"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 111146,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "300-M",
+    "docente_de_referencia": "09367374"
   },
   {
     "ciclo": 3,
@@ -300,10 +351,13 @@
     "apellido_materno": "SILVA",
     "nombres": "JULIO ANDRÉS",
     "rectificacion": true,
-    "código de curso de referencia": 112353,
-    "sección de referencia": 2,
-    "aula de referencia": "405-M",
-    "docente de referencia": "06735001"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112353,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "405-M",
+    "docente_de_referencia": "06735001"
   },
   {
     "ciclo": 3,
@@ -317,10 +371,13 @@
     "apellido_materno": "VIGO",
     "nombres": "MARCIAL ANTONIO",
     "rectificacion": true,
-    "código de curso de referencia": 112349,
-    "sección de referencia": 2,
-    "aula de referencia": "405-M",
-    "docente de referencia": "09156053"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112349,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "405-M",
+    "docente_de_referencia": "09156053"
   },
   {
     "ciclo": 3,
@@ -334,10 +391,13 @@
     "apellido_materno": "TORRES",
     "nombres": "CARLOS ROBERTO",
     "rectificacion": true,
-    "código de curso de referencia": 112350,
-    "sección de referencia": 2,
-    "aula de referencia": "405-M",
-    "docente de referencia": "08701208"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112350,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "405-M",
+    "docente_de_referencia": "08701208"
   },
   {
     "ciclo": 3,
@@ -351,10 +411,13 @@
     "apellido_materno": "CONTRERAS",
     "nombres": "JANET CECIBEL",
     "rectificacion": true,
-    "código de curso de referencia": 112350,
-    "sección de referencia": 1,
-    "aula de referencia": "404-M",
-    "docente de referencia": "09435878"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112350,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "404-M",
+    "docente_de_referencia": "09435878"
   },
   {
     "ciclo": 5,
@@ -367,12 +430,14 @@
     "apellido_paterno": "COLLAZOS",
     "apellido_materno": "PAUCAR",
     "nombres": "EDWIN",
-    "dia_de_la_semana": "JUEVES",
     "rectificacion": true,
-    "código de curso de referencia": 112551,
-    "sección de referencia": 2,
-    "aula de referencia": "412-M",
-    "docente de referencia": "22997939"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112551,
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "412-M",
+    "docente_de_referencia": "22997939"
   },
   {
     "ciclo": 7,
@@ -386,10 +451,13 @@
     "apellido_materno": "CONTRERAS",
     "nombres": "ABELARDO ZENÓN",
     "rectificacion": true,
-    "código de curso de referencia": 112752,
-    "sección de referencia": 1,
-    "aula de referencia": "102-N",
-    "docente de referencia": "08867752"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112752,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "102-N",
+    "docente_de_referencia": "08867752"
   },
   {
     "ciclo": 7,
@@ -403,10 +471,13 @@
     "apellido_materno": "VARGAS",
     "nombres": "FREDDY",
     "rectificacion": true,
-    "código de curso de referencia": 112755,
-    "sección de referencia": 1,
-    "aula de referencia": "102-N",
-    "docente de referencia": "09620010"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112755,
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "102-N",
+    "docente_de_referencia": "09620010"
   },
   {
     "ciclo": 7,
@@ -420,9 +491,12 @@
     "apellido_materno": "CAIRO",
     "nombres": "VLADIMIR",
     "rectificacion": true,
-    "código de curso de referencia": 112752,
-    "sección de referencia": 3,
-    "aula de referencia": "312-N",
-    "docente de referencia": "10588725"
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "codigo_de_asignatura_de_referencia": 112752,
+    "seccion_de_referencia": 3,
+    "aula_de_referencia": "312-N",
+    "docente_de_referencia": "10588725"
   }
 ]
