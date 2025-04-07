@@ -21,4 +21,6 @@ const rows = utils
   .sheet_to_json(ws)
   .filter((a) => a.rectificacion === true);
 
-Bun.write(`result/${filename}.json`, JSON.stringify(rows));
+Bun.write(`result/${filename}.json`, JSON.stringify(rows))
+    .then(r => console.log(`File result/${filename}.json created`))
+    .catch((e) => `Failed to create 'result/${filename}.json', error: ${e.message}`)
