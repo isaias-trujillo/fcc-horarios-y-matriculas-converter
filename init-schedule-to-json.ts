@@ -3,7 +3,7 @@ import { fixMyString } from "./types/mapRawToParsedFichas.ts";
 import type Horario from "./types/Horario";
 import Turn from "./types/Turn.ts";
 
-const filename = 'horarios-4-de-abril';
+const filename = 'horarios-07-04';
 const path = `data/${filename}.xlsx`;
 
 const file = XLSX.readFile(path);
@@ -20,7 +20,7 @@ const ws = file.Sheets[sheet];
 if (!ws) {
   throw new Error("Worksheet not found");
 }
-
+let row = 1;
 // noinspection JSNonASCIINames
 const rows = (XLSX.utils.sheet_to_json(ws) satisfies Horario[])
   .map(
@@ -35,23 +35,25 @@ const rows = (XLSX.utils.sheet_to_json(ws) satisfies Horario[])
       "PLAN DE\r\nESTUDIOS": plan,
       "CRED.": creditos,
       ...props
-    }) => ({
-      ciclo: CICLO,
-      escuela: fixMyString(EP),
-      codigo_de_asignatura: fixMyString(`${cod}`),
-      asignatura: fixMyString(ASIGNATURAS),
-      aula: fixMyString(`${AULA}`),
-      docente: fixMyString(DOCENTE),
-      turno: fixMyString(turno),
-      orden_del_turno: Turn[fixMyString(turno) as keyof typeof Turn] ?? 0,
-      seccion: 1,
-      horarios: Object.fromEntries(
-        Object.entries(props).map(([key, v]) => {
-          const value = fixMyString(`${v}`);
-          return [key, value];
-        }),
-      ),
-    }),
+    }) => {
+        return {
+            ciclo: CICLO,
+            escuela: fixMyString(EP),
+            codigo_de_asignatura: fixMyString(`${cod}`),
+            asignatura: fixMyString(ASIGNATURAS),
+            aula: fixMyString(`${AULA}`),
+            docente: fixMyString(DOCENTE),
+            turno: fixMyString(turno),
+            orden_del_turno: Turn[fixMyString(turno) as keyof typeof Turn] ?? 0,
+            seccion: 1,
+            horarios: Object.fromEntries(
+                Object.entries(props).map(([key, v]) => {
+                    const value = fixMyString(`${v}`);
+                    return [key, value];
+                }),
+            ),
+        }
+    },
   )
   .sort((a, b) => {
     // sort by escuela, orden del turno, aula
