@@ -7,11 +7,11 @@ const careerCodes = {
   presupuesto: "PFP",
   contabilidad: "C",
   gestion: "GT",
-  auditoria: "A",
+  auditoria: "AUD",
   criminalistica: "CFF",
 } as const;
 
-Object.entries(careerCodes).forEach(async([filename, code]) => {
+Object.entries(careerCodes).forEach(async ([filename, code]) => {
   const path = `data/fichas_de_matriculas/${filename}.xls`;
   const exists = await Bun.file(path).exists();
 
@@ -23,9 +23,8 @@ Object.entries(careerCodes).forEach(async([filename, code]) => {
   const file = XLSX.readFile(path);
   const sheets = file.SheetNames;
 
-  const chunkSize = 4000;
+  const chunkSize = 2500;
   const chunks: ParsedFichaMatricula[][] = [];
-
 
   for (let i = 0; i < sheets.length; i++) {
     const name = file.SheetNames[i];
@@ -48,7 +47,7 @@ Object.entries(careerCodes).forEach(async([filename, code]) => {
       chunks.push(parsed.slice(j * chunkSize, (j + 1) * chunkSize));
     }
   }
-// create a new file per chunk with the total
+  // create a new file per chunk with the total
   chunks.forEach((chunk, index) => {
     const startRecordNumber = index * chunkSize + 1;
     const endRecordNumber = startRecordNumber + chunk.length - 1;

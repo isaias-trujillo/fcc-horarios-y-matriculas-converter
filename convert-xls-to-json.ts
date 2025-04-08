@@ -1,6 +1,6 @@
 import { readFile, utils } from "xlsx";
 
-const filename = "data-de-prueba-de-recti";
+const filename = "horarios-con-rectificaciones";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
@@ -17,10 +17,14 @@ if (!ws) {
   throw new Error("Worksheet not found");
 }
 
-const rows = utils
-  .sheet_to_json(ws)
-  .filter((a) => a.rectificacion === true);
+const rows = utils.sheet_to_json(ws);
 
 Bun.write(`result/${filename}.json`, JSON.stringify(rows))
-    .then(r => console.log(`File result/${filename}.json created`))
-    .catch((e) => `Failed to create 'result/${filename}.json', error: ${e.message}`)
+  .then((r) =>
+    console.log(
+      `File result/${filename}.json created with rows: ${rows.length}`,
+    ),
+  )
+  .catch(
+    (e) => `Failed to create 'result/${filename}.json', error: ${e.message}`,
+  );
