@@ -3,7 +3,7 @@ import { fixMyString } from "./types/mapRawToParsedFichas.ts";
 import type Horario from "./types/Horario";
 import Turn from "./types/Turn.ts";
 
-const filename = 'horarios-07-04';
+const filename = 'horarios-raw-09-04';
 const path = `data/${filename}.xlsx`;
 
 const file = XLSX.readFile(path);

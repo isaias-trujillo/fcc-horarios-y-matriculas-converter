@@ -32,6 +32,7 @@
             "HT": "2",
             "HP": "2",
             "LUNES": "08:00-09:30",
+            "MARTES": "08:00-09:30",
             "JUEVES": "09:40-11:10"
         }
     },
@@ -51,6 +52,24 @@
             "HP": "2",
             "MIÉRCOLES": "08:00-09:30",
             "SÁBADO": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "309-M",
+        "docente": "MELGAREJO MORALES, JAVIER RICARDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30",
+            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -86,7 +105,7 @@
             "HT": "1",
             "HP": "4",
             "LUNES": "10:20-11:10  /11:20-12:50",
-            "JUEVES": "11:20-12:50"
+            "JUEVES": "08:00-09:30"
         }
     },
     {
@@ -129,24 +148,6 @@
     {
         "ciclo": 1,
         "escuela": "AUD",
-        "codigo_de_asignatura": "113145",
-        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
-        "aula": "309-M",
-        "docente": "MELGAREJO MORALES, JAVIER RICARDO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "08:00-09:30",
-            "JUEVES": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "AUD",
         "codigo_de_asignatura": "113149",
         "asignatura": "DESARROLLO PERSONAL",
         "aula": "310-M",
@@ -176,6 +177,42 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "09:40-11:10",
+            "JUEVES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113144",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "310-M",
+        "docente": "BOBBIO ROSAS, EMILIO GUSTAVO ARTURO SANDRO EDMUNDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30",
+            "JUEVES": "11:20-12:50"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "310-M",
+        "docente": "VALDIVIA RAMOS, ROMÁN ARTURO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "09:40-11:10",
             "JUEVES": "09:40-11:10"
         }
     },
@@ -249,42 +286,6 @@
             "HP": "2",
             "VIERNES": "09:40-11:10",
             "SÁBADO": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113144",
-        "asignatura": "FILOSOFÍA Y ÉTICA",
-        "aula": "310-M",
-        "docente": "BOBBIO ROSAS, EMILIO GUSTAVO ARTURO SANDRO EDMUNDO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "08:00-09:30",
-            "JUEVES": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113145",
-        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
-        "aula": "310-M",
-        "docente": "VALDIVIA RAMOS, ROMÁN ARTURO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "09:40-11:10",
-            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -590,42 +591,6 @@
     {
         "ciclo": 3,
         "escuela": "AUD",
-        "codigo_de_asignatura": "113352",
-        "asignatura": "ECONOMÍA GENERAL",
-        "aula": "406-M",
-        "docente": "TENORIO MÉNDEZ, WALTER ORLANDO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "08:00-09:30",
-            "VIERNES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113351",
-        "asignatura": "ESTADÍSTICA DESCRIPTIVA Y PROBABILIDADES",
-        "aula": "406-M",
-        "docente": "CHUMPITAZ RAMOS, DOMINGO GUZMÁN",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "09.40-11:10",
-            "VIERNES": "13:00-14:30"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "AUD",
         "codigo_de_asignatura": "113354",
         "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
         "aula": "406-M",
@@ -657,6 +622,42 @@
             "HP": "2",
             "MARTES": "11:20-12:50",
             "JUEVES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113352",
+        "asignatura": "ECONOMÍA GENERAL",
+        "aula": "406-M",
+        "docente": "TENORIO MÉNDEZ, WALTER ORLANDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "08:00-09:30",
+            "VIERNES": "11:20-12:50"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113351",
+        "asignatura": "ESTADÍSTICA DESCRIPTIVA Y PROBABILIDADES",
+        "aula": "406-M",
+        "docente": "CHUMPITAZ RAMOS, DOMINGO GUZMÁN",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "09.40-11:10",
+            "VIERNES": "13:00-14:30"
         }
     },
     {
@@ -695,6 +696,24 @@
             "LUNES": "09:40-11:10",
             "MIÉRCOLES": "11:20-12:50",
             "VIERNES": "09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113353",
+        "asignatura": "ADMINISTRACIÓN GENERAL I",
+        "aula": "407-M",
+        "docente": "AYALA CALDERÓN, RODRIGO HERNANDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "11:20-12:50",
+            "JUEVES": "08:00-09:30"
         }
     },
     {
@@ -785,24 +804,6 @@
             "HP": "4",
             "MARTES": "08:00-09:30 / 09:40-11:10",
             "MIÉRCOLES": "09:40-11:10"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113353",
-        "asignatura": "ADMINISTRACIÓN GENERAL I",
-        "aula": "407-M",
-        "docente": "AYALA CALDERÓN, RODRIGO HERNANDO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "11:20-12:50",
-            "JUEVES": "08:00-09:30"
         }
     },
     {
@@ -954,6 +955,24 @@
     {
         "ciclo": 5,
         "escuela": "AUD",
+        "codigo_de_asignatura": "113553",
+        "asignatura": "CONTABILIDAD DE COSTOS I",
+        "aula": "413-M",
+        "docente": "CHOY ZEVALLOS, ELSA ESTHER",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "4",
+            "HP": "0",
+            "MARTES": "11:20-12:50",
+            "JUEVES": "11:20-12:50"
+        }
+    },
+    {
+        "ciclo": 5,
+        "escuela": "AUD",
         "codigo_de_asignatura": "113549",
         "asignatura": "CONTABILIDAD FINANCIERA II",
         "aula": "413-M",
@@ -1039,24 +1058,6 @@
             "HP": "2",
             "MIÉRCOLES": "11:20-12:50",
             "VIERNES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 5,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113553",
-        "asignatura": "CONTABILIDAD DE COSTOS I",
-        "aula": "413-M",
-        "docente": "CHOY ZEVALLOS, ELSA ESTHER",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "4",
-            "HP": "0",
-            "MARTES": "11:20-12:50",
-            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -1314,42 +1315,6 @@
     {
         "ciclo": 7,
         "escuela": "AUD",
-        "codigo_de_asignatura": "113754",
-        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
-        "aula": "313-N",
-        "docente": "NAMOC CLAUDIO, JOSÉ LUIS",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "18:00-19:30",
-            "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113752",
-        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
-        "aula": "313-N",
-        "docente": "NAVARRETE HONDERMAN, REINEL",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "JUEVES": "21:00-22:30",
-            "VIERNES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "AUD",
         "codigo_de_asignatura": "113750",
         "asignatura": "AUDITORÍA FINANCIERA II",
         "aula": "313-N",
@@ -1404,6 +1369,42 @@
     {
         "ciclo": 7,
         "escuela": "AUD",
+        "codigo_de_asignatura": "113754",
+        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
+        "aula": "313-N",
+        "docente": "NAMOC CLAUDIO, JOSÉ LUIS",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "18:00-19:30",
+            "VIERNES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113752",
+        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
+        "aula": "313-N",
+        "docente": "NAVARRETE HONDERMAN, REINEL",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "21:00-22:30",
+            "VIERNES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "AUD",
         "codigo_de_asignatura": "113756",
         "asignatura": "SISTEMA NACIONAL DE CONTROL ( e )",
         "aula": "313-N",
@@ -1439,42 +1440,6 @@
     {
         "ciclo": 7,
         "escuela": "AUD",
-        "codigo_de_asignatura": "113753",
-        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
-        "aula": "314-N",
-        "docente": "VARGAS MONTEJO, CARMELA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "19:30-21:00",
-            "VIERNES": "21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113752",
-        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
-        "aula": "314-N",
-        "docente": "PICHARDO LUJAN, CARMEN ELIANA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "JUEVES": "19:30-21:00",
-            "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "AUD",
         "codigo_de_asignatura": "113750",
         "asignatura": "AUDITORÍA FINANCIERA II",
         "aula": "314-N",
@@ -1488,6 +1453,24 @@
             "HP": "0",
             "LUNES": "18:00-19:30",
             "MIÉRCOLES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113753",
+        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
+        "aula": "314-N",
+        "docente": "VARGAS MONTEJO, CARMELA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "19:30-21:00",
+            "VIERNES": "21:00-22:30"
         }
     },
     {
@@ -1529,6 +1512,24 @@
     {
         "ciclo": 7,
         "escuela": "AUD",
+        "codigo_de_asignatura": "113752",
+        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
+        "aula": "314-N",
+        "docente": "PICHARDO LUJAN, CARMEN ELIANA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "19:30-21:00",
+            "VIERNES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "AUD",
         "codigo_de_asignatura": "113756",
         "asignatura": "SISTEMA NACIONAL DE CONTROL ( e )",
         "aula": "314-N",
@@ -1559,24 +1560,6 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "21:00-22:30",
-            "MIÉRCOLES": "21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113752",
-        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
-        "aula": "403-N",
-        "docente": "ORTIZ BURGA, ARTURO GUILLERMO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 3,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "21:00-22:30",
             "MIÉRCOLES": "21:00-22:30"
         }
     },
@@ -1655,6 +1638,24 @@
     {
         "ciclo": 7,
         "escuela": "AUD",
+        "codigo_de_asignatura": "113752",
+        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
+        "aula": "403-N",
+        "docente": "ORTIZ BURGA, ARTURO GUILLERMO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "21:00-22:30",
+            "MIÉRCOLES": "21:00-22:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "AUD",
         "codigo_de_asignatura": "113756",
         "asignatura": "SISTEMA NACIONAL DE CONTROL ( e )",
         "aula": "403-N",
@@ -1691,41 +1692,6 @@
     {
         "ciclo": 9,
         "escuela": "AUD",
-        "codigo_de_asignatura": "113942",
-        "asignatura": "AUDITORÍA INTERNA",
-        "aula": "411-N",
-        "docente": "LEÓN PACHECO, ROBERTO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "21:00-22:30",
-            "JUEVES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113945",
-        "asignatura": "PRÁCTICAS PRE PROFESIONAL",
-        "aula": "411-N",
-        "docente": "OSCANÓA PONCE, BILL FRANK",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "3",
-            "HT": "1",
-            "HP": "2",
-            "VIERNES": "20:15-22:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "AUD",
         "codigo_de_asignatura": "113941",
         "asignatura": "AUDITORÍA DE GESTIÓN Y DESEMPEÑO",
         "aula": "411-N",
@@ -1744,6 +1710,24 @@
     {
         "ciclo": 9,
         "escuela": "AUD",
+        "codigo_de_asignatura": "113942",
+        "asignatura": "AUDITORÍA INTERNA",
+        "aula": "411-N",
+        "docente": "LEÓN PACHECO, ROBERTO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "21:00-22:30",
+            "JUEVES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "AUD",
         "codigo_de_asignatura": "113943",
         "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
         "aula": "411-N",
@@ -1757,6 +1741,23 @@
             "HP": "2",
             "MARTES": "21:00-22:30",
             "JUEVES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113945",
+        "asignatura": "PRÁCTICAS PRE PROFESIONAL",
+        "aula": "411-N",
+        "docente": "OSCANÓA PONCE, BILL FRANK",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "3",
+            "HT": "1",
+            "HP": "2",
+            "VIERNES": "20:15-22:30"
         }
     },
     {
@@ -1791,40 +1792,6 @@
             "HT": "3",
             "HP": "0",
             "MIÉRCOLES": "20:15-22:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113945",
-        "asignatura": "PRÁCTICAS PRE PROFESIONAL",
-        "aula": "412-N",
-        "docente": "PÉREZ CASTILLO, JAVIER JESÚS",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "3",
-            "HT": "1",
-            "HP": "2",
-            "VIERNES": "18:00-20:15"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "AUD",
-        "codigo_de_asignatura": "113946",
-        "asignatura": "SEMINARIO TALLER DE NORMAS INTERNACIONALES DE AUDITORÍA",
-        "aula": "412-N",
-        "docente": "SORIA SAAVEDRA, JONATHAN",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "3",
-            "HT": "3",
-            "HP": "0",
-            "VIERNES": "20:15-22:30"
         }
     },
     {
@@ -1884,6 +1851,23 @@
     {
         "ciclo": 9,
         "escuela": "AUD",
+        "codigo_de_asignatura": "113945",
+        "asignatura": "PRÁCTICAS PRE PROFESIONAL",
+        "aula": "412-N",
+        "docente": "PÉREZ CASTILLO, JAVIER JESÚS",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "3",
+            "HT": "1",
+            "HP": "2",
+            "VIERNES": "18:00-20:15"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "AUD",
         "codigo_de_asignatura": "113944",
         "asignatura": "SEMINARIO DE NORMAS INTERNACIONALES DE INFORMACIÓN FINANCIERA",
         "aula": "412-N",
@@ -1903,16 +1887,16 @@
         "escuela": "AUD",
         "codigo_de_asignatura": "113946",
         "asignatura": "SEMINARIO TALLER DE NORMAS INTERNACIONALES DE AUDITORÍA",
-        "aula": "413-N",
-        "docente": "MEJIA CAYOTOPA JOSE",
+        "aula": "412-N",
+        "docente": "SORIA SAAVEDRA, JONATHAN",
         "turno": "N",
         "orden_del_turno": 2,
-        "seccion": 3,
+        "seccion": 2,
         "horarios": {
             "H.SEM": "3",
             "HT": "3",
             "HP": "0",
-            "JUEVES": "18:00-20:15"
+            "VIERNES": "20:15-22:30"
         }
     },
     {
@@ -2003,6 +1987,23 @@
         }
     },
     {
+        "ciclo": 9,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113946",
+        "asignatura": "SEMINARIO TALLER DE NORMAS INTERNACIONALES DE AUDITORÍA",
+        "aula": "413-N",
+        "docente": "MEJIA CAYOTOPA JOSE",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "3",
+            "HT": "3",
+            "HP": "0",
+            "JUEVES": "18:00-20:15"
+        }
+    },
+    {
         "ciclo": 1,
         "escuela": "C",
         "codigo_de_asignatura": "111149",
@@ -2018,6 +2019,24 @@
             "HP": "2",
             "MARTES": "09:40-11:10",
             "JUEVES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111147",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "300-M",
+        "docente": "MONCADA OCHOA, EDWIN SIXTO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30",
+            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -2126,24 +2145,6 @@
             "HP": "2",
             "VIERNES": "08:00-09:30",
             "SÁBADO": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "C",
-        "codigo_de_asignatura": "111147",
-        "asignatura": "DOCTRINA CONTABLE",
-        "aula": "300-M",
-        "docente": "MONCADA OCHOA, EDWIN SIXTO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "08:00-09:30",
-            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -2393,7 +2394,7 @@
             "H.SEM": "5",
             "HT": "1",
             "HP": "4",
-            "MARTES": "10:20-11:10  /11:20-12:50",
+            "MARTES": "09:40-10:30/10:40-12:10",
             "VIERNES": "08:00-09:30"
         }
     },
@@ -2483,6 +2484,24 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "09:40-11:10",
+            "JUEVES": "09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "303-M",
+        "docente": "VALDIVIA RAMOS, ROMÁN ARTURO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 4,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "11:20-12:50",
             "JUEVES": "08:00-09:30"
         }
     },
@@ -2555,24 +2574,6 @@
             "HP": "2",
             "MIÉRCOLES": "09:40-11:10",
             "VIERNES": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "C",
-        "codigo_de_asignatura": "111145",
-        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
-        "aula": "303-M",
-        "docente": "VALDIVIA RAMOS, ROMÁN ARTURO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 4,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "11:20-12:50",
-            "JUEVES": "09:40-11:10"
         }
     },
     {
@@ -2751,6 +2752,7 @@
             "HT": "2",
             "HP": "2",
             "LUNES": "09:40-11:10",
+            "MARTES": "11:20-12:50",
             "JUEVES": "11:20-12:50"
         }
     },
@@ -2928,6 +2930,7 @@
             "H.SEM": "4",
             "HT": "2",
             "HP": "2",
+            "MARTES": "09:40-11:10",
             "JUEVES": "15:30 -17:00 / 17.00 - 18:30"
         }
     },
@@ -3021,6 +3024,24 @@
     {
         "ciclo": 3,
         "escuela": "C",
+        "codigo_de_asignatura": "111354",
+        "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
+        "aula": "312-M",
+        "docente": "VIZCARRA DOMINGUEZ, LUIS ARTURO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "09.40-11:10",
+            "MIÉRCOLES": "11:20-12:50"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
         "codigo_de_asignatura": "111355",
         "asignatura": "DERECHO TRIBUTARIO",
         "aula": "312-M",
@@ -3033,7 +3054,7 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "08:00-09:30",
-            "SÁBADO": "08:00-09:30"
+            "MIÉRCOLES": "13:00-14:30 (402)"
         }
     },
     {
@@ -3074,6 +3095,24 @@
     {
         "ciclo": 3,
         "escuela": "C",
+        "codigo_de_asignatura": "111349",
+        "asignatura": "FUNDAMENTOS PRÁCTICOS DE CONTABILIDAD Y COSTOS",
+        "aula": "312-M",
+        "docente": "MEDINA VIGO, MARCIAL ANTONIO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "6",
+            "HT": "2",
+            "HP": "4",
+            "MIÉRCOLES": "08:00-09:30",
+            "VIERNES": "08:00-09:30 / 09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
         "codigo_de_asignatura": "111350",
         "asignatura": "MATEMÁTICA FINANCIERA",
         "aula": "312-M",
@@ -3088,42 +3127,6 @@
             "LUNES": "08:00-09:30",
             "MIÉRCOLES": "09:40-11:10",
             "VIERNES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111354",
-        "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
-        "aula": "312-M",
-        "docente": "VIZCARRA DOMINGUEZ, LUIS ARTURO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "09.40-11:10",
-            "MIÉRCOLES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111349",
-        "asignatura": "FUNDAMENTOS PRÁCTICOS DE CONTABILIDAD Y COSTOS",
-        "aula": "312-M",
-        "docente": "MEDINA VIGO, MARCIAL ANTONIO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "6",
-            "HT": "2",
-            "HP": "4",
-            "MIÉRCOLES": "08:00-09:30",
-            "VIERNES": "08:00-09:30 / 09:40-11:10"
         }
     },
     {
@@ -3165,6 +3168,24 @@
     {
         "ciclo": 3,
         "escuela": "C",
+        "codigo_de_asignatura": "111355",
+        "asignatura": "DERECHO TRIBUTARIO",
+        "aula": "313-M",
+        "docente": "YACOLCA ESTARES, DANIEL IRWIN",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "08:00-09:30",
+            "VIERNES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
         "codigo_de_asignatura": "111352",
         "asignatura": "ECONOMÍA GENERAL",
         "aula": "313-M",
@@ -3201,42 +3222,6 @@
     {
         "ciclo": 3,
         "escuela": "C",
-        "codigo_de_asignatura": "111350",
-        "asignatura": "MATEMÁTICA FINANCIERA",
-        "aula": "313-M",
-        "docente": "ZUÑIGA HERMOSA DANITZA",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "6",
-            "HT": "2",
-            "HP": "4",
-            "MARTES": "09:40-11:10 / 11:20-12:50",
-            "SÁBADO": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111355",
-        "asignatura": "DERECHO TRIBUTARIO",
-        "aula": "313-M",
-        "docente": "YACOLCA ESTARES, DANIEL IRWIN",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "JUEVES": "08:00-09:30",
-            "VIERNES": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
         "codigo_de_asignatura": "111349",
         "asignatura": "FUNDAMENTOS PRÁCTICOS DE CONTABILIDAD Y COSTOS",
         "aula": "313-M",
@@ -3251,6 +3236,24 @@
             "MIÉRCOLES": "08:00-09:30",
             "JUEVES": "09:40-11:10",
             "VIERNES": "09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111350",
+        "asignatura": "MATEMÁTICA FINANCIERA",
+        "aula": "313-M",
+        "docente": "ZUÑIGA HERMOSA DANITZA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "6",
+            "HT": "2",
+            "HP": "4",
+            "MARTES": "09:40-11:10 / 11:20-12:50",
+            "SÁBADO": "08:00-09:30"
         }
     },
     {
@@ -3384,6 +3387,24 @@
     {
         "ciclo": 3,
         "escuela": "C",
+        "codigo_de_asignatura": "111353",
+        "asignatura": "ADMINISTRACIÓN GENERAL I",
+        "aula": "401-M",
+        "docente": "LI CHAN, AUGUSTO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 4,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30",
+            "JUEVES": "09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
         "codigo_de_asignatura": "111354",
         "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
         "aula": "401-M",
@@ -3438,43 +3459,6 @@
     {
         "ciclo": 3,
         "escuela": "C",
-        "codigo_de_asignatura": "111350",
-        "asignatura": "MATEMÁTICA FINANCIERA",
-        "aula": "401-M",
-        "docente": "OROSCO GUADALUPE, ROGER FERNANDO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 4,
-        "horarios": {
-            "H.SEM": "6",
-            "HT": "2",
-            "HP": "4",
-            "LUNES": "11:20-12:50",
-            "VIERNES": "09:40-11:10",
-            "SÁBADO": "09:40-11:10"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111353",
-        "asignatura": "ADMINISTRACIÓN GENERAL I",
-        "aula": "401-M",
-        "docente": "LI CHAN, AUGUSTO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 4,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "08:00-09:30",
-            "JUEVES": "09:40-11:10"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
         "codigo_de_asignatura": "111351",
         "asignatura": "ESTADÍSTICA DESCRIPTIVA Y PROBABILIDADES",
         "aula": "401-M",
@@ -3511,6 +3495,43 @@
     {
         "ciclo": 3,
         "escuela": "C",
+        "codigo_de_asignatura": "111350",
+        "asignatura": "MATEMÁTICA FINANCIERA",
+        "aula": "401-M",
+        "docente": "OROSCO GUADALUPE, ROGER FERNANDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 4,
+        "horarios": {
+            "H.SEM": "6",
+            "HT": "2",
+            "HP": "4",
+            "LUNES": "11:20-12:50",
+            "VIERNES": "09:40-11:10",
+            "SÁBADO": "09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111353",
+        "asignatura": "ADMINISTRACIÓN GENERAL I",
+        "aula": "402-M",
+        "docente": "PALOMINO SILVA, JULIO ANDRÉS",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 5,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "11:20-12:50",
+            "JUEVES": "09:40-11:10"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
         "codigo_de_asignatura": "111354",
         "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
         "aula": "402-M",
@@ -3524,6 +3545,24 @@
             "HP": "2",
             "LUNES": "09:40-11:10",
             "VIERNES": "11:20-12:50"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111355",
+        "asignatura": "DERECHO TRIBUTARIO",
+        "aula": "402-M",
+        "docente": "PÉREZ MORE, SILVIA YOLANDA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 5,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30",
+            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -3558,44 +3597,7 @@
             "H.SEM": "4",
             "HT": "2",
             "HP": "2",
-            "VIERNES": "08:00-09:30",
-            "SÁBADO": "08:00-09:30"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111353",
-        "asignatura": "ADMINISTRACIÓN GENERAL I",
-        "aula": "402-M",
-        "docente": "PALOMINO SILVA, JULIO ANDRÉS",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 5,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "11:20-12:50",
-            "JUEVES": "09:40-11:10"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111355",
-        "asignatura": "DERECHO TRIBUTARIO",
-        "aula": "402-M",
-        "docente": "PÉREZ MORE, SILVIA YOLANDA",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 5,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "08:00-09:30",
-            "JUEVES": "11:20-12:50"
+            "VIERNES": "08:00-09:30 / 14:00-15:30"
         }
     },
     {
@@ -3656,6 +3658,24 @@
     {
         "ciclo": 3,
         "escuela": "C",
+        "codigo_de_asignatura": "111354",
+        "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
+        "aula": "403-M",
+        "docente": "TORRES VILLANUEVA, MARÍA DEL SOCORRO CANDELARIA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 6,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "09:40-11:10",
+            "MARTES": "11:20-12:50"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
         "codigo_de_asignatura": "111355",
         "asignatura": "DERECHO TRIBUTARIO",
         "aula": "403-M",
@@ -3684,8 +3704,8 @@
             "H.SEM": "4",
             "HT": "2",
             "HP": "2",
-            "JUEVES": "08:00-09:30",
-            "SÁBADO": "09:40-11:10"
+            "MARTES": "08:00-09:30",
+            "JUEVES": "08:00-09:30"
         }
     },
     {
@@ -3709,43 +3729,6 @@
     {
         "ciclo": 3,
         "escuela": "C",
-        "codigo_de_asignatura": "111350",
-        "asignatura": "MATEMÁTICA FINANCIERA",
-        "aula": "403-M",
-        "docente": "ALDAZABAL CONTRERAS, JANET CECIBEL",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 6,
-        "horarios": {
-            "H.SEM": "6",
-            "HT": "2",
-            "HP": "4",
-            "LUNES": "11:20-12:50",
-            "MIÉRCOLES": "08:00-09:30",
-            "VIERNES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
-        "codigo_de_asignatura": "111354",
-        "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
-        "aula": "403-M",
-        "docente": "TORRES VILLANUEVA, MARÍA DEL SOCORRO CANDELARIA",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 6,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "09:40-11:10",
-            "MARTES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "C",
         "codigo_de_asignatura": "111349",
         "asignatura": "FUNDAMENTOS PRÁCTICOS DE CONTABILIDAD Y COSTOS",
         "aula": "403-M",
@@ -3760,6 +3743,25 @@
             "LUNES": "08:00-09:30",
             "MIÉRCOLES": "09:40-11:10",
             "VIERNES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111350",
+        "asignatura": "MATEMÁTICA FINANCIERA",
+        "aula": "403-M",
+        "docente": "ALDAZABAL CONTRERAS, JANET CECIBEL",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 6,
+        "horarios": {
+            "H.SEM": "6",
+            "HT": "2",
+            "HP": "4",
+            "LUNES": "11:20-12:50",
+            "MIÉRCOLES": "08:00-09:30",
+            "VIERNES": "11:20-12:50"
         }
     },
     {
@@ -4897,6 +4899,24 @@
     {
         "ciclo": 7,
         "escuela": "C",
+        "codigo_de_asignatura": "111791",
+        "asignatura": "AUDITORÍA FINANCIERA II",
+        "aula": "101-N",
+        "docente": "DÍAZ HUAMAN, HERNAN MARTIN",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "4",
+            "HP": "0",
+            "LUNES": "19:30-21:00",
+            "MIÉRCOLES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
         "codigo_de_asignatura": "111794",
         "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
         "aula": "101-N",
@@ -4932,6 +4952,23 @@
     {
         "ciclo": 7,
         "escuela": "C",
+        "codigo_de_asignatura": "111792",
+        "asignatura": "FINANZAS CORPORATIVAS",
+        "aula": "101-N",
+        "docente": "OVIEDO VELASQUEZ, PABLO RAÚL",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "18:00-19:30/21:00-22:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
         "codigo_de_asignatura": "111795",
         "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
         "aula": "101-N",
@@ -4945,41 +4982,6 @@
             "HP": "2",
             "MIÉRCOLES": "18:00-19:30",
             "VIERNES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111791",
-        "asignatura": "AUDITORÍA FINANCIERA II",
-        "aula": "101-N",
-        "docente": "DÍAZ HUAMAN, HERNAN MARTIN",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "4",
-            "HP": "0",
-            "LUNES": "19:30-21:00",
-            "MIÉRCOLES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111792",
-        "asignatura": "FINANZAS CORPORATIVAS",
-        "aula": "101-N",
-        "docente": "OVIEDO VELASQUEZ, PABLO RAÚL",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "JUEVES": "18:00-19:30/21:00-22:30"
         }
     },
     {
@@ -5021,59 +5023,6 @@
     {
         "ciclo": 7,
         "escuela": "C",
-        "codigo_de_asignatura": "111794",
-        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
-        "aula": "306-N",
-        "docente": "CRUZ ORDINOLA DE LOPEZ, KARLA MARGARITA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "VIERNES": "18:00-19:30 / 21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111795",
-        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
-        "aula": "306-N",
-        "docente": "DÍAZ PÉREZ, FERNANDO SANTIAGO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "19:30-21:00",
-            "MIÉRCOLES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111796",
-        "asignatura": "TRIBUTACIÓN APLICADA",
-        "aula": "306-N",
-        "docente": "HUAMAN SIALER, MARCO ANTONIO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "18:00-19:30",
-            "JUEVES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
         "codigo_de_asignatura": "111791",
         "asignatura": "AUDITORÍA FINANCIERA II",
         "aula": "306-N",
@@ -5087,6 +5036,23 @@
             "HP": "0",
             "MIÉRCOLES": "21:00-22:30",
             "VIERNES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
+        "codigo_de_asignatura": "111794",
+        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
+        "aula": "306-N",
+        "docente": "CRUZ ORDINOLA DE LOPEZ, KARLA MARGARITA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "VIERNES": "18:00-19:30 / 21:00-22:30"
         }
     },
     {
@@ -5128,6 +5094,24 @@
     {
         "ciclo": 7,
         "escuela": "C",
+        "codigo_de_asignatura": "111795",
+        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
+        "aula": "306-N",
+        "docente": "DÍAZ PÉREZ, FERNANDO SANTIAGO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "19:30-21:00",
+            "MIÉRCOLES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
         "codigo_de_asignatura": "111793",
         "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
         "aula": "306-N",
@@ -5146,6 +5130,42 @@
     {
         "ciclo": 7,
         "escuela": "C",
+        "codigo_de_asignatura": "111796",
+        "asignatura": "TRIBUTACIÓN APLICADA",
+        "aula": "306-N",
+        "docente": "HUAMAN SIALER, MARCO ANTONIO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "18:00-19:30",
+            "JUEVES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
+        "codigo_de_asignatura": "111791",
+        "asignatura": "AUDITORÍA FINANCIERA II",
+        "aula": "307-N",
+        "docente": "DÍAZ HUAMAN, HERNAN MARTIN",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "4",
+            "HP": "0",
+            "LUNES": "18:00-19:30",
+            "MIÉRCOLES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
         "codigo_de_asignatura": "111794",
         "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
         "aula": "307-N",
@@ -5158,6 +5178,24 @@
             "HT": "2",
             "HP": "2",
             "VIERNES": "18:00-19:30 / 19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
+        "codigo_de_asignatura": "111798",
+        "asignatura": "CONTABILIDAD SECTORIAL ( e )",
+        "aula": "307-N",
+        "docente": "PONCE MALUQUISH, LUISA GRACIELA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "19:30-21:00",
+            "MIÉRCOLES": "19:30-21:00"
         }
     },
     {
@@ -5217,42 +5255,6 @@
     {
         "ciclo": 7,
         "escuela": "C",
-        "codigo_de_asignatura": "111791",
-        "asignatura": "AUDITORÍA FINANCIERA II",
-        "aula": "307-N",
-        "docente": "DÍAZ HUAMAN, HERNAN MARTIN",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 3,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "4",
-            "HP": "0",
-            "LUNES": "18:00-19:30",
-            "MIÉRCOLES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111798",
-        "asignatura": "CONTABILIDAD SECTORIAL ( e )",
-        "aula": "307-N",
-        "docente": "PONCE MALUQUISH, LUISA GRACIELA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 3,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "19:30-21:00",
-            "MIÉRCOLES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
         "codigo_de_asignatura": "111796",
         "asignatura": "TRIBUTACIÓN APLICADA",
         "aula": "307-N",
@@ -5266,42 +5268,6 @@
             "HP": "2",
             "MARTES": "21:00-22:30",
             "JUEVES": "21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111792",
-        "asignatura": "FINANZAS CORPORATIVAS",
-        "aula": "308-N",
-        "docente": "LEÓN MARTINEZ, DAVID CIRILO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 4,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "19:30-21:00",
-            "MIÉRCOLES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111795",
-        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
-        "aula": "308-N",
-        "docente": "LLAVE ANGULO, IRVIN",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 4,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "21:00-22:30",
-            "VIERNES": "19:30-21:00"
         }
     },
     {
@@ -5361,6 +5327,42 @@
     {
         "ciclo": 7,
         "escuela": "C",
+        "codigo_de_asignatura": "111792",
+        "asignatura": "FINANZAS CORPORATIVAS",
+        "aula": "308-N",
+        "docente": "LEÓN MARTINEZ, DAVID CIRILO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 4,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "19:30-21:00",
+            "MIÉRCOLES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
+        "codigo_de_asignatura": "111795",
+        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
+        "aula": "308-N",
+        "docente": "LLAVE ANGULO, IRVIN",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 4,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "21:00-22:30",
+            "VIERNES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
         "codigo_de_asignatura": "111793",
         "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
         "aula": "308-N",
@@ -5392,6 +5394,24 @@
             "HP": "2",
             "MARTES": "19:30-21:00",
             "MIÉRCOLES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
+        "codigo_de_asignatura": "111791",
+        "asignatura": "AUDITORÍA FINANCIERA II",
+        "aula": "309-N",
+        "docente": "URBANO VENTOCILLA, CÉSAR MAXILILIANO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 5,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "4",
+            "HP": "0",
+            "LUNES": "18:00-19:30",
+            "VIERNES": "19:30-21:00"
         }
     },
     {
@@ -5469,24 +5489,6 @@
     {
         "ciclo": 7,
         "escuela": "C",
-        "codigo_de_asignatura": "111791",
-        "asignatura": "AUDITORÍA FINANCIERA II",
-        "aula": "309-N",
-        "docente": "URBANO VENTOCILLA, CÉSAR MAXILILIANO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 5,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "4",
-            "HP": "0",
-            "LUNES": "18:00-19:30",
-            "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
         "codigo_de_asignatura": "111793",
         "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
         "aula": "309-N",
@@ -5523,42 +5525,6 @@
     {
         "ciclo": 7,
         "escuela": "C",
-        "codigo_de_asignatura": "111794",
-        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
-        "aula": "310-N",
-        "docente": "VARGAS MONTEJO, CARMELA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 6,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "21:00-22:30",
-            "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
-        "codigo_de_asignatura": "111795",
-        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
-        "aula": "310-N",
-        "docente": "DÍAZ PÉREZ, FERNANDO SANTIAGO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 6,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "19:30-21:00",
-            "VIERNES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "C",
         "codigo_de_asignatura": "111791",
         "asignatura": "AUDITORÍA FINANCIERA II",
         "aula": "310-N",
@@ -5572,6 +5538,24 @@
             "HP": "0",
             "LUNES": "19:30-21:00",
             "MIÉRCOLES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
+        "codigo_de_asignatura": "111794",
+        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
+        "aula": "310-N",
+        "docente": "VARGAS MONTEJO, CARMELA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 6,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "21:00-22:30",
+            "VIERNES": "19:30-21:00"
         }
     },
     {
@@ -5613,6 +5597,24 @@
     {
         "ciclo": 7,
         "escuela": "C",
+        "codigo_de_asignatura": "111795",
+        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
+        "aula": "310-N",
+        "docente": "DÍAZ PÉREZ, FERNANDO SANTIAGO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 6,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "19:30-21:00",
+            "VIERNES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "C",
         "codigo_de_asignatura": "111793",
         "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
         "aula": "310-N",
@@ -5649,6 +5651,24 @@
     {
         "ciclo": 9,
         "escuela": "C",
+        "codigo_de_asignatura": "111987",
+        "asignatura": "GESTION Y CONTROL ESTRATEGICO",
+        "aula": "404-N",
+        "docente": "ORNA BARILLAS, JESUS MARTÍN",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "21:00-22:30",
+            "MIÉRCOLES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "C",
         "codigo_de_asignatura": "111985",
         "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
         "aula": "404-N",
@@ -5680,24 +5700,6 @@
             "HP": "2",
             "JUEVES": "18:00-19:30",
             "VIERNES": "19:30-20:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "C",
-        "codigo_de_asignatura": "111987",
-        "asignatura": "GESTION Y CONTROL ESTRATEGICO",
-        "aula": "404-N",
-        "docente": "ORNA BARILLAS, JESUS MARTÍN",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "21:00-22:30",
-            "MIÉRCOLES": "19:30-21:00"
         }
     },
     {
@@ -5756,41 +5758,6 @@
     {
         "ciclo": 9,
         "escuela": "C",
-        "codigo_de_asignatura": "111985",
-        "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
-        "aula": "405-N",
-        "docente": "RODRÍGUEZ CAIRO, VLADIMIR",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "19:30-21:00",
-            "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "C",
-        "codigo_de_asignatura": "111984",
-        "asignatura": "SEMINARIO DE FINANZAS",
-        "aula": "405-N",
-        "docente": "ORELLANO ANTUNEZ, JUAN CARLOS",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "JUEVES": "18:00-19.30 / 19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "C",
         "codigo_de_asignatura": "111987",
         "asignatura": "GESTION Y CONTROL ESTRATEGICO",
         "aula": "405-N",
@@ -5809,6 +5776,24 @@
     {
         "ciclo": 9,
         "escuela": "C",
+        "codigo_de_asignatura": "111985",
+        "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
+        "aula": "405-N",
+        "docente": "RODRÍGUEZ CAIRO, VLADIMIR",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "19:30-21:00",
+            "VIERNES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "C",
         "codigo_de_asignatura": "111986",
         "asignatura": "PRÁCTICAS PRE PROFESIONAL",
         "aula": "405-N",
@@ -5821,6 +5806,23 @@
             "HT": "1",
             "HP": "2",
             "MARTES": "18:00-20:15"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "C",
+        "codigo_de_asignatura": "111984",
+        "asignatura": "SEMINARIO DE FINANZAS",
+        "aula": "405-N",
+        "docente": "ORELLANO ANTUNEZ, JUAN CARLOS",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "18:00-19.30 / 19:30-21:00"
         }
     },
     {
@@ -5862,42 +5864,6 @@
     {
         "ciclo": 9,
         "escuela": "C",
-        "codigo_de_asignatura": "111985",
-        "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
-        "aula": "406-N",
-        "docente": "ZAMORA RAMOS, ULISES JOSÉ",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 3,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "21:00-22:30",
-            "JUEVES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "C",
-        "codigo_de_asignatura": "111984",
-        "asignatura": "SEMINARIO DE FINANZAS",
-        "aula": "406-N",
-        "docente": "RENGIFO ALEGRÍA, ALBERTO JUAN CARLOS",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 3,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "19:30-21:00",
-            "VIERNES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "C",
         "codigo_de_asignatura": "111987",
         "asignatura": "GESTION Y CONTROL ESTRATEGICO",
         "aula": "406-N",
@@ -5916,6 +5882,24 @@
     {
         "ciclo": 9,
         "escuela": "C",
+        "codigo_de_asignatura": "111985",
+        "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
+        "aula": "406-N",
+        "docente": "ZAMORA RAMOS, ULISES JOSÉ",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "21:00-22:30",
+            "JUEVES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "C",
         "codigo_de_asignatura": "111986",
         "asignatura": "PRÁCTICAS PRE PROFESIONAL",
         "aula": "406-N",
@@ -5928,6 +5912,24 @@
             "HT": "1",
             "HP": "2",
             "MIÉRCOLES": "18:00-20:15"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "C",
+        "codigo_de_asignatura": "111984",
+        "asignatura": "SEMINARIO DE FINANZAS",
+        "aula": "406-N",
+        "docente": "RENGIFO ALEGRÍA, ALBERTO JUAN CARLOS",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "19:30-21:00",
+            "VIERNES": "18:00-19:30"
         }
     },
     {
@@ -6092,24 +6094,6 @@
     {
         "ciclo": 9,
         "escuela": "C",
-        "codigo_de_asignatura": "111988",
-        "asignatura": "TALLER DE INTEGRACION CONTABLE",
-        "aula": "408-N",
-        "docente": "LOLI BONILLA, CÉSAR ENRIQUE",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 5,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "4",
-            "HP": "0",
-            "MIÉRCOLES": "19:30-21:00",
-            "VIERNES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "C",
         "codigo_de_asignatura": "111986",
         "asignatura": "PRÁCTICAS PRE PROFESIONAL",
         "aula": "408-N",
@@ -6157,6 +6141,24 @@
             "HT": "4",
             "HP": "0",
             "MARTES": "18:00-19:30 / 19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "C",
+        "codigo_de_asignatura": "111988",
+        "asignatura": "TALLER DE INTEGRACION CONTABLE",
+        "aula": "408-N",
+        "docente": "LOLI BONILLA, CÉSAR ENRIQUE",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 5,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "4",
+            "HP": "0",
+            "MIÉRCOLES": "19:30-21:00",
+            "VIERNES": "18:00-19:30"
         }
     },
     {
@@ -6479,7 +6481,7 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "11:20-12:50",
-            "JUEVES": "08:00-09:30"
+            "JUEVES": "09:40-11:10"
         }
     },
     {
@@ -6515,7 +6517,7 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "09:40-11:10",
-            "JUEVES": "11:20-12:50"
+            "JUEVES": "08:00-09:30"
         }
     },
     {
@@ -6586,7 +6588,7 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "08:00-09:30",
-            "JUEVES": "09:40-11:10"
+            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -6639,6 +6641,24 @@
             "HT": "2",
             "HP": "2",
             "MARTES": "11:20-12:50",
+            "JUEVES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "307-M",
+        "docente": "VALDIVIA RAMOS, ROMÁN ARTURO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "08:00-09:30",
             "JUEVES": "11:20-12:50"
         }
     },
@@ -6712,24 +6732,6 @@
             "HP": "2",
             "MARTES": "09:40-11:10",
             "SÁBADO": "09:40-11:10"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112145",
-        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
-        "aula": "307-M",
-        "docente": "VALDIVIA RAMOS, ROMÁN ARTURO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "08:00-09:30",
-            "JUEVES": "08:00-09:30"
         }
     },
     {
@@ -7628,60 +7630,6 @@
     {
         "ciclo": 7,
         "escuela": "GT",
-        "codigo_de_asignatura": "112753",
-        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
-        "aula": "102-N",
-        "docente": "VARGAS MONTEJO, CARMELA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "19:30-21:00",
-            "MIÉRCOLES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112754",
-        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
-        "aula": "102-N",
-        "docente": "AVILES LAZO, ORLANDO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "JUEVES": "18:00-19:30",
-            "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112758",
-        "asignatura": "SISTEMAS DE INFORMACIÓN CONTABLE ( e )",
-        "aula": "102-N",
-        "docente": "MEJIA CAYOTOPA JOSE",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "18:00-19:30",
-            "MIÉRCOLES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
         "codigo_de_asignatura": "112750",
         "asignatura": "AUDITORÍA FINANCIERA II",
         "aula": "102-N",
@@ -7695,6 +7643,24 @@
             "HP": "0",
             "LUNES": "19:30-21:00",
             "VIERNES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112753",
+        "asignatura": "CONTABILIDAD DEL SECTOR PÚBLICO",
+        "aula": "102-N",
+        "docente": "VARGAS MONTEJO, CARMELA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "19:30-21:00",
+            "MIÉRCOLES": "19:30-21:00"
         }
     },
     {
@@ -7718,6 +7684,24 @@
     {
         "ciclo": 7,
         "escuela": "GT",
+        "codigo_de_asignatura": "112754",
+        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
+        "aula": "102-N",
+        "docente": "AVILES LAZO, ORLANDO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "18:00-19:30",
+            "VIERNES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
         "codigo_de_asignatura": "112752",
         "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
         "aula": "102-N",
@@ -7736,6 +7720,24 @@
     {
         "ciclo": 7,
         "escuela": "GT",
+        "codigo_de_asignatura": "112758",
+        "asignatura": "SISTEMAS DE INFORMACIÓN CONTABLE ( e )",
+        "aula": "102-N",
+        "docente": "MEJIA CAYOTOPA JOSE",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "18:00-19:30",
+            "MIÉRCOLES": "18:00-19:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
         "codigo_de_asignatura": "112755",
         "asignatura": "TRIBUTACIÓN APLICADA",
         "aula": "102-N",
@@ -7749,6 +7751,24 @@
             "HP": "2",
             "LUNES": "21:00-22:30",
             "JUEVES": "21:00-22:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112750",
+        "asignatura": "AUDITORÍA FINANCIERA II",
+        "aula": "311-N",
+        "docente": "COLLANTES NAVARRETE, VÍCTOR EDUARDO",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "4",
+            "HP": "0",
+            "MIÉRCOLES": "19:30-21:00",
+            "VIERNES": "18:00-19:30"
         }
     },
     {
@@ -7785,6 +7805,42 @@
             "HP": "2",
             "MARTES": "19:30-21:00",
             "JUEVES": "19:30-21:00"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112754",
+        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
+        "aula": "311-N",
+        "docente": "NAMOC CLAUDIO, JOSÉ LUIS",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "21:00-22:30",
+            "VIERNES": "21:00-22:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112752",
+        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
+        "aula": "311-N",
+        "docente": "PICHARDO LUJAN, CARMEN ELIANA",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "21:00-22:30",
+            "JUEVES": "21:00-22:30"
         }
     },
     {
@@ -7827,60 +7883,6 @@
         "escuela": "GT",
         "codigo_de_asignatura": "112750",
         "asignatura": "AUDITORÍA FINANCIERA II",
-        "aula": "311-N",
-        "docente": "COLLANTES NAVARRETE, VÍCTOR EDUARDO",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "4",
-            "HP": "0",
-            "MIÉRCOLES": "19:30-21:00",
-            "VIERNES": "18:00-19:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112754",
-        "asignatura": "GESTIÓN ESTRATÉGICA DE COSTOS",
-        "aula": "311-N",
-        "docente": "NAMOC CLAUDIO, JOSÉ LUIS",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "21:00-22:30",
-            "VIERNES": "21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112752",
-        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
-        "aula": "311-N",
-        "docente": "PICHARDO LUJAN, CARMEN ELIANA",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "21:00-22:30",
-            "JUEVES": "21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112750",
-        "asignatura": "AUDITORÍA FINANCIERA II",
         "aula": "312-N",
         "docente": "O´DIANA VALDEZ, PETER RICHARD",
         "turno": "N",
@@ -7910,24 +7912,6 @@
             "HP": "2",
             "MIÉRCOLES": "21:00-22:30",
             "VIERNES": "19:30-21:00"
-        }
-    },
-    {
-        "ciclo": 7,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112752",
-        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
-        "aula": "312-N",
-        "docente": "RODRÍGUEZ CAIRO, VLADIMIR",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 3,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "18:00-19:30",
-            "VIERNES": "18:00-19:30"
         }
     },
     {
@@ -7964,6 +7948,24 @@
             "HP": "2",
             "LUNES": "18:00-19:30",
             "VIERNES": "21:00-22:30"
+        }
+    },
+    {
+        "ciclo": 7,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112752",
+        "asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
+        "aula": "312-N",
+        "docente": "RODRÍGUEZ CAIRO, VLADIMIR",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 3,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "18:00-19:30",
+            "VIERNES": "18:00-19:30"
         }
     },
     {
@@ -8018,23 +8020,6 @@
             "HP": "2",
             "JUEVES": "21:00-22:30",
             "VIERNES": "21:00-22:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112946",
-        "asignatura": "TRIBUTACION INTERNACIONAL I",
-        "aula": "409-N",
-        "docente": "AGUIRRE ARREDONDO, NANCY",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "3",
-            "HT": "3",
-            "HP": "0",
-            "LUNES": "20:15-22:30"
         }
     },
     {
@@ -8109,6 +8094,23 @@
     {
         "ciclo": 9,
         "escuela": "GT",
+        "codigo_de_asignatura": "112946",
+        "asignatura": "TRIBUTACION INTERNACIONAL I",
+        "aula": "409-N",
+        "docente": "AGUIRRE ARREDONDO, NANCY",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "3",
+            "HT": "3",
+            "HP": "0",
+            "LUNES": "20:15-22:30"
+        }
+    },
+    {
+        "ciclo": 9,
+        "escuela": "GT",
         "codigo_de_asignatura": "112943",
         "asignatura": "INVESTIGACIÓN APLICADA I PARA TÍTULO PROFESIONAL",
         "aula": "410-N",
@@ -8138,23 +8140,6 @@
             "HT": "3",
             "HP": "0",
             "JUEVES": "20:15-22:30"
-        }
-    },
-    {
-        "ciclo": 9,
-        "escuela": "GT",
-        "codigo_de_asignatura": "112946",
-        "asignatura": "TRIBUTACION INTERNACIONAL I",
-        "aula": "410-N",
-        "docente": "AGUIRRE ARREDONDO, NANCY",
-        "turno": "N",
-        "orden_del_turno": 2,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "3",
-            "HT": "3",
-            "HP": "0",
-            "MIÉRCOLES": "18:00-20:15"
         }
     },
     {
@@ -8210,6 +8195,23 @@
         }
     },
     {
+        "ciclo": 9,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112946",
+        "asignatura": "TRIBUTACION INTERNACIONAL I",
+        "aula": "410-N",
+        "docente": "AGUIRRE ARREDONDO, NANCY",
+        "turno": "N",
+        "orden_del_turno": 2,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "3",
+            "HT": "3",
+            "HP": "0",
+            "MIÉRCOLES": "18:00-20:15"
+        }
+    },
+    {
         "ciclo": 1,
         "escuela": "PFP",
         "codigo_de_asignatura": "114108",
@@ -8225,6 +8227,42 @@
             "HP": "2",
             "LUNES": "16:00-17:30",
             "VIERNES": "14:30-16:00"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "PFP",
+        "codigo_de_asignatura": "114106",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "312-T",
+        "docente": "ORNA BARILLAS, JESUS MARTÍN",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "14:30-16:00",
+            "MIÉRCOLES": "16:00-17:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "PFP",
+        "codigo_de_asignatura": "114103",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "312-T",
+        "docente": "BOBBIO ROSAS, EMILIO GUSTAVO ARTURO SANDRO EDMUNDO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "14:30-16:00",
+            "JUEVES": "13:00-14:30"
         }
     },
     {
@@ -8319,42 +8357,6 @@
     {
         "ciclo": 1,
         "escuela": "PFP",
-        "codigo_de_asignatura": "114106",
-        "asignatura": "DOCTRINA CONTABLE",
-        "aula": "312-T",
-        "docente": "ORNA BARILLAS, JESUS MARTÍN",
-        "turno": "T",
-        "orden_del_turno": 1,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "LUNES": "14:30-16:00",
-            "MIÉRCOLES": "16:00-17:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "PFP",
-        "codigo_de_asignatura": "114103",
-        "asignatura": "FILOSOFÍA Y ÉTICA",
-        "aula": "312-T",
-        "docente": "BOBBIO ROSAS, EMILIO GUSTAVO ARTURO SANDRO EDMUNDO",
-        "turno": "T",
-        "orden_del_turno": 1,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "14:30-16:00",
-            "JUEVES": "13:00-14:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "PFP",
         "codigo_de_asignatura": "114108",
         "asignatura": "DESARROLLO PERSONAL",
         "aula": "313-T",
@@ -8368,6 +8370,42 @@
             "HP": "2",
             "LUNES": "13:00-14:30",
             "VIERNES": "16:00-17:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "PFP",
+        "codigo_de_asignatura": "114106",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "313-T",
+        "docente": "ACOSTA DE LA CRUZ, PAOLO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "14:30-16:00",
+            "JUEVES": "16:00-17:30"
+        }
+    },
+    {
+        "ciclo": 1,
+        "escuela": "PFP",
+        "codigo_de_asignatura": "114103",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "313-T",
+        "docente": "QUICAÑO TENORIO, MARCOS ANTONIO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "13:00-14:30",
+            "VIERNES": "14:30-16:00"
         }
     },
     {
@@ -8461,39 +8499,21 @@
         }
     },
     {
-        "ciclo": 1,
+        "ciclo": 3,
         "escuela": "PFP",
-        "codigo_de_asignatura": "114106",
-        "asignatura": "DOCTRINA CONTABLE",
-        "aula": "313-T",
-        "docente": "ACOSTA DE LA CRUZ, PAOLO",
-        "turno": "T",
-        "orden_del_turno": 1,
-        "seccion": 2,
+        "codigo_de_asignatura": "114305",
+        "asignatura": "ADMINISTRACIÓN GENERAL I",
+        "aula": "408-M",
+        "docente": "CÁCERES ÁLEMAN, PEDRO LUIS",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
         "horarios": {
             "H.SEM": "4",
             "HT": "2",
             "HP": "2",
-            "MARTES": "14:30-16:00",
-            "JUEVES": "16:00-17:30"
-        }
-    },
-    {
-        "ciclo": 1,
-        "escuela": "PFP",
-        "codigo_de_asignatura": "114103",
-        "asignatura": "FILOSOFÍA Y ÉTICA",
-        "aula": "313-T",
-        "docente": "QUICAÑO TENORIO, MARCOS ANTONIO",
-        "turno": "T",
-        "orden_del_turno": 1,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MIÉRCOLES": "13:00-14:30",
-            "VIERNES": "14:30-16:00"
+            "MARTES": "11:20-12:50",
+            "JUEVES": "11:20-12:50"
         }
     },
     {
@@ -8553,24 +8573,6 @@
     {
         "ciclo": 3,
         "escuela": "PFP",
-        "codigo_de_asignatura": "114305",
-        "asignatura": "ADMINISTRACIÓN GENERAL I",
-        "aula": "408-M",
-        "docente": "CÁCERES ÁLEMAN, PEDRO LUIS",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 1,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "11:20-12:50",
-            "JUEVES": "11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "PFP",
         "codigo_de_asignatura": "114303",
         "asignatura": "ESTADÍSTICA DESCRIPTIVA Y PROBABILIDADES",
         "aula": "408-M",
@@ -8621,6 +8623,24 @@
             "HP": "4",
             "MIÉRCOLES": "08:00-09:30 / 09:40-11:10",
             "VIERNES": "08:00-09:30"
+        }
+    },
+    {
+        "ciclo": 3,
+        "escuela": "PFP",
+        "codigo_de_asignatura": "114305",
+        "asignatura": "ADMINISTRACIÓN GENERAL I",
+        "aula": "409-M",
+        "docente": "AYALA CALDERÓN, RODRIGO HERNANDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30",
+            "JUEVES": "09:40-11:10"
         }
     },
     {
@@ -8730,24 +8750,6 @@
             "HP": "4",
             "LUNES": "08:00-09:30",
             "SÁBADO": "08:00-09:30/11:20-12:50"
-        }
-    },
-    {
-        "ciclo": 3,
-        "escuela": "PFP",
-        "codigo_de_asignatura": "114305",
-        "asignatura": "ADMINISTRACIÓN GENERAL I",
-        "aula": "409-M",
-        "docente": "AYALA CALDERÓN, RODRIGO HERNANDO",
-        "turno": "M",
-        "orden_del_turno": 0,
-        "seccion": 2,
-        "horarios": {
-            "H.SEM": "4",
-            "HT": "2",
-            "HP": "2",
-            "MARTES": "08:00-09:30",
-            "JUEVES": "09:40-11:10"
         }
     },
     {
