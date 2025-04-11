@@ -1,26 +1,26 @@
-import type Row from "../types/Row";
-import type FixedRow from "../types/FixedRow";
+import type ScheduleRow from "../types/schedules/ScheduleRow";
+import type FixedScheduleRow from "../types/schedules/FixedScheduleRow";
 import fixMyString from "./fixMyString.ts";
-import Day from "../types/Day.ts";
+import Day from "../types/schedules/Day.ts";
 
-const fixRow = (row: Row): FixedRow | null => {
+const fixScheduleRow = (row: ScheduleRow): FixedScheduleRow | null => {
     const prefixed = Object.fromEntries(Object.entries(row).map(([k, v]) => {
-        const key = k as keyof Row;
+        const key = k as keyof ScheduleRow;
         const value = v as typeof row[typeof key];
         if (typeof value === 'string') {
             return [fixMyString(key.toString()), fixMyString(value)];
         }
         return [fixMyString((key.toString())), value];
-    })) as Row;
+    })) as ScheduleRow;
 
     const horarios = Object.entries(Day).reduce((acc, [k, v]) => {
-        const key = k as keyof Row;
+        const key = k as keyof ScheduleRow;
         if (prefixed[key]) {
             acc[v] = prefixed[key] as string;
             delete prefixed[key];
         }
         return acc;
-    }, {} as FixedRow['horarios']);
+    }, {} as FixedScheduleRow['horarios']);
 
     try {
         return {
@@ -41,4 +41,4 @@ const fixRow = (row: Row): FixedRow | null => {
     }
 };
 
-export default fixRow;
+export default fixScheduleRow;

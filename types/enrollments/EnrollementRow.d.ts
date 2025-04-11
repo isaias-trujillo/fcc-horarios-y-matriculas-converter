@@ -1,0 +1,26 @@
+type EnrollementRow = {
+    Codigo: string,
+    Apellido_Paterno: string,
+    Apellido_Materno: string,
+    Nombres: string,
+    Anio_Ingreso: number,
+    Semestre: number,
+    Plan: string,
+    MENCION: string | null,
+    Especialidad: number,
+    Cod_Asignatura: string,
+    Seccion: number,
+    Num_Ciclo_Ano_Asig: number,
+    Cod_Grupo: string,
+    Cod_Aula: string,
+    Asigantura: string,
+    Creditaje: number,
+    Usuario_Matricula: string,
+    Fecha_Matricula: string,
+    Repitencias_P_Actual: string,
+    Sede: string,
+    Repitencias_Equivalencia: string,
+    Coe_Alumno: string,
+};
+
+export default EnrollementRow;

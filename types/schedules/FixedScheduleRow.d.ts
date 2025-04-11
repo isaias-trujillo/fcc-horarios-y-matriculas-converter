@@ -1,6 +1,6 @@
-import Day from "./Day";
+import Day from "./Day.ts";
 
-type FixedRow = {
+type FixedScheduleRow = {
     ciclo: number,
     escuela: string,
     codigo_de_asignatura: string,
@@ -11,4 +11,4 @@ type FixedRow = {
     horarios: Record<Day, string>
 };
 
-export default FixedRow;
+export default FixedScheduleRow;

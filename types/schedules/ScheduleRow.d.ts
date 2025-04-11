@@ -1,6 +1,6 @@
 import Day from "./Day.ts";
 
-type Row = {
+type ScheduleRow = {
     MAESTRIA: string;
     CODIGO: string;
     ASIGNATURA: string;
@@ -12,4 +12,4 @@ type Row = {
     [key: keyof Day]: string;
 };
 
-export default Row;
+export default ScheduleRow;

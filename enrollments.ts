@@ -1,8 +1,8 @@
 import {readFile, utils} from 'xlsx'
-import fixScheduleRow from "./utils/fixScheduleRow.ts";
-import type ScheduleRow from "./types/schedules/ScheduleRow";
+import type EnrollementRow from "./types/enrollments/EnrollementRow";
+import fixEnrollmentRow from "./utils/fixEnrollmentRow.ts";
 
-const filename = "horarios.raw";
+const filename = "matriculas.raw";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
@@ -23,7 +23,7 @@ if (!ws) {
     throw new Error("Worksheet not found");
 }
 
-const rows = (utils.sheet_to_json(ws) as ScheduleRow[]).map(fixScheduleRow).filter(Boolean);
+const rows = (utils.sheet_to_json(ws) as EnrollementRow[]).map(fixEnrollmentRow).filter(Boolean);
 
 Bun.write(`result/${filename}.json`, JSON.stringify(rows))
     .then((r) =>
