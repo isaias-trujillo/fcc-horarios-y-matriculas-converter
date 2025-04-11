@@ -3597,7 +3597,7 @@
             "H.SEM": "4",
             "HT": "2",
             "HP": "2",
-            "VIERNES": "08:00-09:30 / 14:00-15:30"
+            "VIERNES": "08:00-09:30 / 2:00-03:30"
         }
     },
     {
@@ -3704,7 +3704,7 @@
             "H.SEM": "4",
             "HT": "2",
             "HP": "2",
-            "MARTES": "08:00-09:30",
+            "MARTES": "14: 00 – 15:30.",
             "JUEVES": "08:00-09:30"
         }
     },
@@ -6163,7 +6163,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111149",
         "asignatura": "DESARROLLO PERSONAL",
         "aula": "310-T",
@@ -6181,7 +6181,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111147",
         "asignatura": "DOCTRINA CONTABLE",
         "aula": "310-T",
@@ -6199,7 +6199,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111144",
         "asignatura": "FILOSOFÍA Y ÉTICA",
         "aula": "310-T",
@@ -6217,7 +6217,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111145",
         "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
         "aula": "310-T",
@@ -6235,7 +6235,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111148",
         "asignatura": "INGLÉS I",
         "aula": "310-T",
@@ -6253,7 +6253,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111142",
         "asignatura": "LENGUAJE I",
         "aula": "310-T",
@@ -6271,7 +6271,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111146",
         "asignatura": "MATEMÁTICA I",
         "aula": "310-T",
@@ -6289,7 +6289,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111143",
         "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
         "aula": "310-T",
@@ -6307,7 +6307,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111149",
         "asignatura": "DESARROLLO PERSONAL",
         "aula": "311-T",
@@ -6325,7 +6325,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111147",
         "asignatura": "DOCTRINA CONTABLE",
         "aula": "311-T",
@@ -6343,7 +6343,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111144",
         "asignatura": "FILOSOFÍA Y ÉTICA",
         "aula": "311-T",
@@ -6360,7 +6360,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111145",
         "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
         "aula": "311-T",
@@ -6378,7 +6378,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111148",
         "asignatura": "INGLÉS I",
         "aula": "311-T",
@@ -6396,7 +6396,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111142",
         "asignatura": "LENGUAJE I",
         "aula": "311-T",
@@ -6414,7 +6414,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111146",
         "asignatura": "MATEMÁTICA I",
         "aula": "311-T",
@@ -6432,7 +6432,7 @@
     },
     {
         "ciclo": 1,
-        "escuela": "Criminalistica",
+        "escuela": "CFF",
         "codigo_de_asignatura": "111143",
         "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
         "aula": "311-T",
