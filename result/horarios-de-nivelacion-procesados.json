@@ -13,7 +13,9 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:30",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 1,
@@ -29,7 +31,9 @@
     "dia_de_la_semana": "JUEVES",
     "hora_de_inicio": "15:30",
     "hora_de_finalizacion": "17:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 4,
@@ -45,7 +49,9 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:30",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 5,
@@ -106,7 +112,7 @@
   },
   {
     "ciclo": 4,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113452",
     "asignatura": "MICROECONOMÍA",
     "seccion": 1,
@@ -125,7 +131,7 @@
   },
   {
     "ciclo": 5,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113545",
     "asignatura": "MICROECONOMÍA",
     "seccion": 1,
@@ -144,7 +150,7 @@
   },
   {
     "ciclo": 6,
-    "escuela": "EC",
+    "escuela": "GT",
     "codigo_de_asignatura": "111650",
     "asignatura": "ANÁLISIS E INTERPRETACIÓN DE INFORMACIÓN FINANCIERA",
     "seccion": 1,
@@ -156,15 +162,17 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 8,
-    "escuela": "C",
+    "escuela": "GT",
     "codigo_de_asignatura": "111882",
     "asignatura": "ANÁLISIS E INTERPRETACIÓN DE INFORMACIÓN FINANCIERA",
     "seccion": 1,
-    "aula": 404,
+    "aula": "404",
     "identificacion": "02406261",
     "apellido_paterno": "GARCIA",
     "apellido_materno": "PERALTA",
@@ -175,7 +183,7 @@
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111650",
     "seccion_de_referencia": 1,
-    "aula_de_referencia": 404
+    "aula_de_referencia": "404"
   },
   {
     "ciclo": 8,
@@ -198,7 +206,7 @@
   },
   {
     "ciclo": 8,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113841",
     "asignatura": "ANÁLISIS E INTERPRETACIÓN DE INFORMACIÓN FINANCIERA",
     "seccion": 1,
@@ -217,7 +225,7 @@
   },
   {
     "ciclo": 7,
-    "escuela": "EC",
+    "escuela": "GT",
     "codigo_de_asignatura": "111785",
     "asignatura": "AUDITORIA FINANCIERA II",
     "seccion": "1",
@@ -229,7 +237,9 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 7,
@@ -252,7 +262,7 @@
   },
   {
     "ciclo": 7,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113744",
     "asignatura": "AUDITORÍA FINANCIERA II",
     "seccion": "1",
@@ -271,7 +281,7 @@
   },
   {
     "ciclo": 8,
-    "escuela": "EC",
+    "escuela": "GT",
     "codigo_de_asignatura": "111885",
     "asignatura": "AUDITORIA TRIBUTARIA",
     "seccion": "1",
@@ -283,7 +293,9 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 8,
@@ -306,7 +318,7 @@
   },
   {
     "ciclo": 8,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113844",
     "asignatura": "AUDITORÍA TRIBUTARIA",
     "seccion": "1",
@@ -325,7 +337,7 @@
   },
   {
     "ciclo": 8,
-    "escuela": "EC",
+    "escuela": "GT",
     "codigo_de_asignatura": "111887",
     "asignatura": "TRIBUTACION APLICADA",
     "seccion": "1",
@@ -337,7 +349,9 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 8,
@@ -360,7 +374,7 @@
   },
   {
     "ciclo": 8,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113846",
     "asignatura": "TRIBUTACION APLICADA",
     "seccion": "1",
@@ -379,7 +393,7 @@
   },
   {
     "ciclo": 8,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113838",
     "asignatura": "AUDITORIA DE TECNOLOGÍAS DE LA INFORMACIÓN",
     "seccion": "1",
@@ -391,11 +405,13 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 8,
-    "escuela": "AUD",
+    "escuela": "GT",
     "codigo_de_asignatura": "113838",
     "asignatura": "AUDITORIA DE TECNOLOGÍAS DE LA INFORMACIÓN",
     "seccion": "1",
@@ -407,11 +423,13 @@
     "dia_de_la_semana": "VIERNES",
     "hora_de_inicio": "16:00",
     "hora_de_finalizacion": "17:30",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 8,
-    "escuela": "C",
+    "escuela": "GT",
     "codigo_de_asignatura": "111879",
     "asignatura": "CONTABILIDAD Y GESTIÓN DEL COMERCIO INTERNACIONAL",
     "seccion": "1",
@@ -423,11 +441,13 @@
     "dia_de_la_semana": "MARTES",
     "hora_de_inicio": "18:00",
     "hora_de_finalizacion": "19:30",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 8,
-    "escuela": "C",
+    "escuela": "GT",
     "codigo_de_asignatura": "111879",
     "asignatura": "CONTABILIDAD Y GESTIÓN DEL COMERCIO INTERNACIONAL",
     "seccion": "1",
@@ -439,11 +459,13 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "18:00",
     "hora_de_finalizacion": "19:30",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 10,
-    "escuela": "EC",
+    "escuela": "GT",
     "codigo_de_asignatura": "111085",
     "asignatura": "INVESTIGACION APLICADA II PARA TITULO PROFESIONAL",
     "seccion": "1",
@@ -455,7 +477,9 @@
     "dia_de_la_semana": "MIÉRCOLES",
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
-    "rectificacion": false
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   },
   {
     "ciclo": 10,
@@ -494,5 +518,97 @@
     "codigo_de_asignatura_de_referencia": "111085",
     "seccion_de_referencia": "1",
     "aula_de_referencia": "405"
+  },
+  {
+    "ciclo": 4,
+    "escuela": "EC",
+    "codigo_de_asignatura": "111449",
+    "asignatura": "CONTABILIDAD FINANCIERA I",
+    "seccion": "1",
+    "aula": "403",
+    "identificacion": "08627589",
+    "apellido_paterno": "VIZCARRA",
+    "apellido_materno": "DOMINGUEZ",
+    "nombres": "LUIS ARTURO",
+    "dia_de_la_semana": "MARTES",
+    "hora_de_inicio": "15:00",
+    "hora_de_finalizacion": "17:00",
+    "rectificacion": false,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
+  },
+  {
+    "ciclo": 4,
+    "escuela": "EC",
+    "codigo_de_asignatura": "111449",
+    "asignatura": "CONTABILIDAD FINANCIERA I",
+    "seccion": "1",
+    "aula": "403",
+    "identificacion": "08627589",
+    "apellido_paterno": "VIZCARRA",
+    "apellido_materno": "DOMINGUEZ",
+    "nombres": "LUIS ARTURO",
+    "dia_de_la_semana": "JUEVES",
+    "hora_de_inicio": "15:00",
+    "hora_de_finalizacion": "17:30",
+    "rectificacion": false,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
+  },
+  {
+    "ciclo": 4,
+    "escuela": "GT",
+    "codigo_de_asignatura": "112449",
+    "asignatura": "CONTABILIDAD FINANCIERA I",
+    "seccion": "1",
+    "aula": "403",
+    "identificacion": "08627589",
+    "apellido_paterno": "VIZCARRA",
+    "apellido_materno": "DOMINGUEZ",
+    "nombres": "LUIS ARTURO",
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": "111449",
+    "seccion_de_referencia": "1",
+    "aula_de_referencia": "403"
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AUD",
+    "codigo_de_asignatura": "113449",
+    "asignatura": "CONTABILIDAD FINANCIERA I",
+    "seccion": "1",
+    "aula": "403",
+    "identificacion": "08627589",
+    "apellido_paterno": "VIZCARRA",
+    "apellido_materno": "DOMINGUEZ",
+    "nombres": "LUIS ARTURO",
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": "111449",
+    "seccion_de_referencia": "1",
+    "aula_de_referencia": "403"
+  },
+  {
+    "ciclo": 9,
+    "escuela": "GT",
+    "codigo_de_asignatura": "112936",
+    "asignatura": "TRIBUTACIÓN SECTORIAL",
+    "seccion": "1",
+    "aula": "LAB",
+    "identificacion": "15766290",
+    "apellido_paterno": "CABANILLAS",
+    "apellido_materno": "LEIVA",
+    "nombres": "GERARDO MANUEL",
+    "dia_de_la_semana": "JUEVES",
+    "hora_de_inicio": "15:00",
+    "hora_de_finalizacion": "18:00",
+    "rectificacion": false,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
   }
 ]
