@@ -1,5 +1,14 @@
-import type Row from "./Row";
+import Day from "./Day";
 
-type FixedRow = Omit<Row, 'Ciclo'> & { Ciclo: number, seccion: number, horarios: Record<Day, string> };
+type FixedRow = {
+    ciclo: number,
+    escuela: string,
+    codigo_de_asignatura: string,
+    asignatura: string,
+    aula?: string | null,
+    docente: string,
+    seccion: number,
+    horarios: Record<Day, string>
+};
 
 export default FixedRow;

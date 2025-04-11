@@ -11,9 +11,9 @@ const fixRow = (row: Row): FixedRow | null => {
             return [fixMyString(key.toString()), fixMyString(value)];
         }
         return [fixMyString((key.toString())), value];
-    })) as FixedRow;
+    })) as Row;
 
-    prefixed.horarios = Object.entries(Day).reduce((acc, [k, v]) => {
+    const horarios = Object.entries(Day).reduce((acc, [k, v]) => {
         const key = k as keyof Row;
         if (prefixed[key]) {
             acc[v] = prefixed[key] as string;
@@ -24,10 +24,13 @@ const fixRow = (row: Row): FixedRow | null => {
 
     try {
         return {
-            ...prefixed,
-            Ciclo: prefixed.Ciclo.toString().split('-').map(s => parseInt(s))[0] ?? 0,
-            MODULO: row.MODULO.toString().split('-').map(s => parseInt(s))[0] ?? 0,
-            seccion: 1
+            ciclo: prefixed.Ciclo.toString().split('-').map(s => parseInt(s))[0] ?? 0,
+            escuela: prefixed.MAESTRIA,
+            codigo_de_asignatura: prefixed.CODIGO,
+            asignatura: prefixed.ASIGNATURA,
+            docente: prefixed.DOCENTE,
+            seccion: 1,
+            horarios
         };
     } catch (e) {
         console.log({
