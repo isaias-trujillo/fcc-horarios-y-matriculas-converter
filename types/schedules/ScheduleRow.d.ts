@@ -9,6 +9,7 @@ type ScheduleRow = {
     Ciclo: number | `${number}-${string}`;
     DOCENTE: string;
     MODULO: number | `${number}-${number}`;
+    seccion: number;
     [key: keyof Day]: string;
 };
 

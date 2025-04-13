@@ -29,7 +29,7 @@ const fixScheduleRow = (row: ScheduleRow): FixedScheduleRow | null => {
             codigo_de_asignatura: prefixed.CODIGO,
             asignatura: prefixed.ASIGNATURA,
             docente: prefixed.DOCENTE,
-            seccion: 1,
+            seccion: prefixed.seccion,
             horarios
         };
     } catch (e) {
