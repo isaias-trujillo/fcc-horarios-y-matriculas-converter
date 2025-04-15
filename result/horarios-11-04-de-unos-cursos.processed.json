@@ -1,0 +1,40 @@
+[
+  {
+    "ciclo": 1,
+    "escuela": "GT",
+    "codigo_de_asignatura": "112147",
+    "asignatura": "DOCTRINA CONTABLE",
+    "seccion": 5,
+    "aula": "307-A-M",
+    "identificacion": "07712178",
+    "apellido_paterno": "VILCHEZ",
+    "apellido_materno": "OLIVARES",
+    "nombres": "PERCY ANTONIO",
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": "112147",
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "307-M"
+  },
+  {
+    "ciclo": 1,
+    "escuela": "GT",
+    "codigo_de_asignatura": "112146",
+    "asignatura": "MATEMÁTICA I",
+    "seccion": 5,
+    "aula": "307-A-M",
+    "identificacion": "40578805",
+    "apellido_paterno": "ROMERO",
+    "apellido_materno": "LARRREATEGUI",
+    "nombres": "EDWARD FREDERIK",
+    "dia_de_la_semana": "DOMINGO",
+    "hora_de_inicio": "00:00",
+    "hora_de_finalizacion": "00:00",
+    "rectificacion": true,
+    "codigo_de_asignatura_de_referencia": "112146",
+    "seccion_de_referencia": 2,
+    "aula_de_referencia": "307-M"
+  }
+]
