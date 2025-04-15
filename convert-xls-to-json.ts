@@ -1,9 +1,6 @@
 import { readFile, utils } from "xlsx";
 
-<<<<<<< Updated upstream
-const filename = "horarios-11-04-de-unos-cursos.processed";
 const filename = "horarios-11-04-de-2-grupos-de-rectificacion.processed";
->>>>>>> Stashed changes
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
