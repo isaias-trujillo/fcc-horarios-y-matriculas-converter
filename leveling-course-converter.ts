@@ -2,7 +2,7 @@ import { readFile, utils } from "xlsx";
 import type FormattedSchedule from "./types/FormattedSchedule";
 import {fixMyString} from "./types/mapRawToParsedFichas.ts";
 
-const filename = "horarios-de-nivelacion-procesados-de-un-profe";
+const filename = "horarios-de-nivelacion-procesados";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
@@ -34,7 +34,7 @@ const cleanRow = (row: FormattedSchedule): FormattedSchedule | null => {
             dia_de_la_semana: fixMyString(row.dia_de_la_semana),
             hora_de_inicio: ifHourIsZeroParseOrReturnAsString(row.hora_de_inicio),
             hora_de_finalizacion: ifHourIsZeroParseOrReturnAsString(row.hora_de_finalizacion),
-            codigo_de_asignatura_de_referencia: row.codigo_de_asignatura_de_referencia ? fixMyString(row.codigo_de_asignatura_de_referencia) : null,
+            codigo_de_asignatura_de_referencia: row.codigo_de_asignatura_de_referencia ? fixMyString(row.codigo_de_asignatura_de_referencia.toString()) : null,
             aula_de_referencia: row.aula_de_referencia ? typeof row.aula_de_referencia === "string" ? fixMyString(row.aula_de_referencia) : row.aula_de_referencia.toString() : null,
         }
     }catch (e){
