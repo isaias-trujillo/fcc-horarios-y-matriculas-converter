@@ -1,0 +1,194 @@
+[
+  {
+    "ciclo": 1,
+    "escuela": "MLADE",
+    "codigo_de_asignatura": "C3S20611",
+    "asignatura": "PRESENTACION DE ALTO IMPACTO Y STORYTELLING",
+    "docente": "Quiñones Balaguer, Andrea",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MLADE",
+    "codigo_de_asignatura": "C3S20612",
+    "asignatura": "CONTABILIDAD PARA LA TOMA DE DECISIONES",
+    "docente": "Moncada Ochoa, Edwin Sixto",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MLADE",
+    "codigo_de_asignatura": "C3S20621",
+    "asignatura": "ESTRATEGIA COMPETITIVA",
+    "docente": "Masuda Toyofuku, Victor Ricardo",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19.00- 22.00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MLADE",
+    "codigo_de_asignatura": "C3S20623",
+    "asignatura": "FINANZAS PARA LA ALTA DIRECCION",
+    "docente": "García Villegas, Emilio Gabriel",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19.00- 22.00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MPAFC",
+    "codigo_de_asignatura": "C3S20811",
+    "asignatura": "LIDERAZGO Y DESARROLLO DE HABILIDADES DIRECTIVAS",
+    "docente": "Lazarte Aranguren, Luis Antonio",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MPAFC",
+    "codigo_de_asignatura": "C3S20114",
+    "asignatura": "COMPLIANCE: NORMATIVAS, SISTEMAS Y RESPONSABILIDADES",
+    "docente": "Gutierrez Zanelli, Frank William",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MPAFC",
+    "codigo_de_asignatura": "C3S20822",
+    "asignatura": "SISTEMAS Y HERRAMIENTAS  DE INTELIGENCIA FINANCIERA CONTRA DELITOS FINANCIEROS",
+    "docente": "Ponce Maluquish, Luisa Graciela",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MPAFC",
+    "codigo_de_asignatura": "C3S20824",
+    "asignatura": "TIC PARA LA PREVENCION Y CONTROL DE DELITOS INFORMATICOS",
+    "docente": "Vergara Moncada, Raúl Jesús",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MECI",
+    "codigo_de_asignatura": "C4S20111",
+    "asignatura": "ESTANDARES INTERNACIONALES DE INFORMACION FINANCIERA I",
+    "docente": "Rodriguez Gavilano, Marvin Carlos",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MECI",
+    "codigo_de_asignatura": "C4S20113",
+    "asignatura": "CONTABILIDAD AMBIENTAL Y SOCIAL EN EL CONTEXTO INTERNACIONAL",
+    "docente": "Morales La Rosa, Juan Carlos",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MECI",
+    "codigo_de_asignatura": "C4S20121",
+    "asignatura": "ESTANDARES INTERNACIONALES DE INFORMACION FINANCIERA II",
+    "docente": "Guerreros Arcos, Omar Rodolfo",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MECI",
+    "codigo_de_asignatura": "C4S201A3",
+    "asignatura": "(ELECTIVO) NORMAS INTERNACIONALES DE CONTABILIDAD DEL SECTOR PUBLICO",
+    "docente": "Díaz Huaman, Hernan Martín",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MPTI",
+    "codigo_de_asignatura": "C3S20712",
+    "asignatura": "IMPOSICION AL CONSUMO: NO DOMICILIADOS",
+    "docente": "Alva  Mateucci, Juan Mario",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "MPTI",
+    "codigo_de_asignatura": "C3S20714",
+    "asignatura": "RENTA EMPRESARIAL: DOMICILIADOS Y NO DOMICILIADOS",
+    "docente": "Esquivel Aguilar, Elard Jhonny",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MPTI",
+    "codigo_de_asignatura": "C3S20722",
+    "asignatura": "NORMAS INTERNACIONALES DE INFORMACION FINANCIERA APLICADOS A LA TRIBUTACION",
+    "docente": "Alarcón Vargas, Fredy",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "MPTI",
+    "codigo_de_asignatura": "C3S20724",
+    "asignatura": "TRIBUTACION DE MERCADOS DE CAPITALES",
+    "docente": "Yemsi Rober, Sanchez Soto",
+    "seccion": 1,
+    "horarios": {
+      "MARTES": "19:00-22:00"
+    },
+    "rectificacion": false
+  }
+]

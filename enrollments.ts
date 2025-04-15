@@ -25,14 +25,18 @@ if (!ws) {
 
 const rows = (utils.sheet_to_json(ws) as EnrollementRow[]).map(fixEnrollmentRow).filter(Boolean);
 
-Bun.write(`result/${filename}.json`, JSON.stringify(rows))
-    .then((r) =>
-        console.log(
-            `File result/${filename}.json created with rows: ${rows.length}`,
-        ),
-    )
-    .catch(
-        (e) => `Failed to create 'result/${filename}.json', error: ${e.message}`,
-    );
+const chunkSize = 1000;
 
+const chunks = Array.from({ length: Math.ceil(rows.length / chunkSize) }, (_, i) => rows.slice(i * chunkSize, (i + 1) * chunkSize));
 
+chunks.forEach((chunk, i) => {
+    Bun.write(`result/${filename}/chunk-${i}.json`, JSON.stringify(chunk))
+        .then((r) =>
+            console.log(
+                `File result/${filename}-${i}.json created with rows: ${chunk.length}`,
+            ),
+        )
+        .catch(
+            (e) => `Failed to create 'result/${filename}-${i}.json', error: ${e.message}`,
+        );
+});

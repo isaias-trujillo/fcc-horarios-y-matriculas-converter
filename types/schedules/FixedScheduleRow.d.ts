@@ -8,7 +8,8 @@ type FixedScheduleRow = {
     aula?: string | null,
     docente: string,
     seccion: number,
-    horarios: Record<Day, string>
+    horarios: Record<Day, string>,
+    rectificacion: boolean,
 };
 
 export default FixedScheduleRow;

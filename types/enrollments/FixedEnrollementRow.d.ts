@@ -9,7 +9,7 @@ type FixedEnrollementRow = {
     asignatura: string,
     ingreso: string,
     correo: string,
-    escuela?: string,
+    escuela: string,
     plan_de_estudios: string,
 };
 

@@ -1,26 +1,27 @@
 type EnrollementRow = {
-    Codigo: string,
-    Apellido_Paterno: string,
-    Apellido_Materno: string,
-    Nombres: string,
-    Anio_Ingreso: number,
-    Semestre: number,
-    Plan: string,
-    MENCION: string | null,
-    Especialidad: number,
-    Cod_Asignatura: string,
-    Seccion: number,
-    Num_Ciclo_Ano_Asig: number,
-    Cod_Grupo: string,
-    Cod_Aula: string,
-    Asigantura: string,
-    Creditaje: number,
-    Usuario_Matricula: string,
-    Fecha_Matricula: string,
-    Repitencias_P_Actual: string,
-    Sede: string,
-    Repitencias_Equivalencia: string,
-    Coe_Alumno: string,
+    cod_alumno: string;
+    ape_paterno: string;
+    ape_materno: string;
+    nom_alumno: string;
+    anio_ingreso: string;
+    cod_semestre: string;
+    cod_plan: string;
+    cod_especialidad: string;
+    cod_asignatura: string;
+    cod_seccion: string;
+    num_ciclo_ano_asig: number;
+    cod_grupo?: string | null;
+    cod_aula?: string | nullstring;
+    des_asignatura: string;
+    num_creditaje: string;
+    mod_user: string;
+    mod_fecha: string;
+    rep_plan_actual: string;
+    sede_alumno: string;
+    rep_x_equiv: string;
+    coe_alumno: string;
+    count: string;
+    escuela: string;
 };
 
 export default EnrollementRow;

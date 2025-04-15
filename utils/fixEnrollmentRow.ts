@@ -14,17 +14,18 @@ const fixEnrollmentRow = (row: EnrollementRow): FixedEnrollementRow | null => {
 
     try {
         return {
-            codigo: prefixed.Codigo,
-            apellido_paterno: prefixed.Apellido_Paterno,
-            apellido_materno: prefixed.Apellido_Materno,
-            nombres: prefixed.Nombres,
-            codigo_de_asignatura: prefixed.Cod_Asignatura,
-            seccion: prefixed.Seccion,
-            ciclo: prefixed.Num_Ciclo_Ano_Asig,
-            asignatura: prefixed.Asigantura,
-            ingreso: prefixed.Anio_Ingreso.toString(),
-            correo: prefixed.Coe_Alumno,
-            plan_de_estudios: prefixed.Plan,
+            codigo: prefixed.cod_alumno,
+            apellido_paterno: prefixed.ape_paterno,
+            apellido_materno: prefixed.ape_materno,
+            nombres: prefixed.nom_alumno,
+            codigo_de_asignatura: prefixed.cod_asignatura,
+            seccion: prefixed.cod_seccion,
+            ciclo: prefixed.num_ciclo_ano_asig || 10,
+            asignatura: prefixed.des_asignatura,
+            ingreso: prefixed.anio_ingreso,
+            correo: prefixed.coe_alumno,
+            escuela: prefixed.escuela,
+            plan_de_estudios: prefixed.cod_plan,
         };
     } catch (e) {
         console.log({
