@@ -1,0 +1,20 @@
+[
+  {
+    "ciclo": 10,
+    "escuela": "C",
+    "codigo_de_asignatura": "111087",
+    "asignatura": "SISTEMAS Y TECNOLOGIAS DE INFORMACION",
+    "seccion": "1",
+    "aula": "LAB",
+    "identificacion": "40714072",
+    "apellido_paterno": "CRUZ",
+    "apellido_materno": "ORDINOLA DE LOPEZ",
+    "nombres": "KARLA MARGARITA",
+    "dia_de_la_semana": "LUNES",
+    "hora_de_inicio": "19:30",
+    "hora_de_finalizacion": "22:30",
+    "rectificacion": false,
+    "codigo_de_asignatura_de_referencia": null,
+    "aula_de_referencia": null
+  }
+]

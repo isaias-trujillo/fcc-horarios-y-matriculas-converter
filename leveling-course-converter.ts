@@ -2,7 +2,7 @@ import { readFile, utils } from "xlsx";
 import type FormattedSchedule from "./types/FormattedSchedule";
 import {fixMyString} from "./types/mapRawToParsedFichas.ts";
 
-const filename = "horarios-de-nivelacion-procesados-del-sabado";
+const filename = "horarios-de-nivelacion-procesados-de-un-profe";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
