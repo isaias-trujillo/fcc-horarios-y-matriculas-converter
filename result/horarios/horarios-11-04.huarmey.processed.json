@@ -15,7 +15,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111353",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   },
   {
@@ -34,7 +34,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111354",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   },
   {
@@ -53,7 +53,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111355",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   },
   {
@@ -72,7 +72,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111352",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   },
   {
@@ -91,7 +91,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111351",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   },
   {
@@ -110,7 +110,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111349",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   },
   {
@@ -129,7 +129,7 @@
     "hora_de_finalizacion": "00:00",
     "rectificacion": true,
     "codigo_de_asignatura_de_referencia": "111350",
-    "seccion_de_referencia": 2,
+    "seccion_de_referencia": 5,
     "aula_de_referencia": "402-M"
   }
 ]
