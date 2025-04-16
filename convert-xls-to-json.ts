@@ -1,6 +1,6 @@
 import { readFile, utils } from "xlsx";
 
-const filename = "horarios-11-04-de-2-grupos-de-rectificacion.processed";
+const filename = "horarios/horarios-11-04.huarmey.processed";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
