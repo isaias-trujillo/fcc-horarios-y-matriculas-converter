@@ -1,0 +1,146 @@
+[
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111142",
+        "asignatura": "LENGUAJE I",
+        "aula": "HUARAL-01-M",
+        "docente": "AGÚERO DEL CARPIO, ROSAMARÍA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "LUNES": "08:45-12:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111143",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "HUARAL-01-M",
+        "docente": "VALERIO HARO, FÉLIX JULIÁN",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "VIERNES": "08:45-11:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111144",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "HUARAL-01-M",
+        "docente": "VALERIO HARO, FÉLIX JULIÁN",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "08:45-11:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "HUARAL-01-M",
+        "docente": "AGÚERO DEL CARPIO, ROSAMARÍA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:45-11:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111146",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "HUARAL-01-M",
+        "docente": "REYES NARVÁEZ, RONALD JUVEN",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "MIÉRCOLES": "08:45-12:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111147",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "HUARAL-01-T",
+        "docente": "HUAYNALAYA RASHUAMAN, CHARO LIZ",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "13:15-16:15"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111148",
+        "asignatura": "INGLÉS I",
+        "aula": "HUARAL-01-T",
+        "docente": "ALFARO TORRES, LAURA ISABEL",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "13:15-16:15"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111149",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "HUARAL-01-T",
+        "docente": "RONCEROS LÉVANO, ALIDE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 8,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "13:15-16:15"
+        },
+        "rectificacion": false
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111142",
+        "asignatura": "LENGUAJE I",
+        "aula": "CHILCA-01-M",
+        "docente": "LICLA PORRAS, GRACIELA FLOR",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "SÁBADO": "08:00 - 09:30 / 9:30 - 11:00 / 11:00 - 12:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111143",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "CHILCA-01-M",
+        "docente": "CHAGRAY NICHO, LUIS",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "11:00 - 12:30 / 12:30 - 02:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111144",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "CHILCA-01-M",
+        "docente": "DÍAZ ORELLANA, CHRISTIAN MÁXIMO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "08:00 - 09:30 / 9:30 - 11:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "CHILCA-01-M",
+        "docente": "RAMOS MELGAREJO, PAUL LUDGARDO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "11:00 - 12:30 / 12:30 - 02:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111146",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "CHILCA-01-M",
+        "docente": "GUTIÉRREZ TIRADO, RICARDO AUGUSTO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "VIERNES": "08:00 - 09:30 / 9:30 - 11:00 / 11:00 - 12:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111148",
+        "asignatura": "INGLÉS I",
+        "aula": "CHILCA-01-M",
+        "docente": "ARDILES GUEVARA, DANIELLA ELIZABETH",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "11:00 - 12:30 / 12:30 - 02:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111149",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "CHILCA-01-M",
+        "docente": "DÍAZ ORELLANA, CHRISTIAN MÁXIMO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "11:00 - 12:30 / 12:30 - 02:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111147",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "CHILCA-01-T",
+        "docente": "ZEGARRA BARRIENTOS, LIZ",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 11,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "VIERNES": "15:30 - 18:30"
+        },
+        "rectificacion": false
+    }
+]
