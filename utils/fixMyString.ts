@@ -1,10 +1,7 @@
 const fixMyString = (str: string) => {
-    const pattern = /[\s\n\r\t]+/g;
     return str
-        .split(" ")
-        .map((s) => s.trim().replaceAll(pattern, ""))
-        .join(" ")
-        .trim();
+        .replace(/[\s\u00A0]+/g, ' ') // replace all kinds of whitespace (including non-breaking) with one space
+        .trim();                      // remove leading/trailing spaces
 };
 
 export default fixMyString;

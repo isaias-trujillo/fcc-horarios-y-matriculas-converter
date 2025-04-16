@@ -1,0 +1,326 @@
+[
+  {
+    "ciclo": 3,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C4S20233",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Ames Santillan, Luisa Fernanda",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20313",
+    "asignatura": "SEMINARIO DE METODOLOGÍA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Arroyo Morales, Angélica",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C3P20542",
+    "asignatura": "TALLER DE TESIS III (FUSION CPGE)",
+    "docente": "Bobbio Rosas, Emilio Gustavo",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00 - 22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "CPGE",
+    "codigo_de_asignatura": "C3P21444",
+    "asignatura": "TALLER DE TESIS III (FUSION CIA)",
+    "docente": "Bobbio Rosas, Emilio Gustavo",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "CPGE",
+    "codigo_de_asignatura": "C3S21424",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Caceres Aleman, Pedro Luis",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "CPGE",
+    "codigo_de_asignatura": "C3S21435",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Choy Zevallos, Elsa Esther",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "B Y F",
+    "codigo_de_asignatura": "C3P20132",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Espinoza Valenzuela, Alberto Benjamin",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "FP",
+    "codigo_de_asignatura": "C2S20444",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Fiestas Flores, Roberto Carlos",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "B Y F",
+    "codigo_de_asignatura": "C3S20114",
+    "asignatura": "METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Hidalgo Tupia, Manuel Alberto",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "B Y F",
+    "codigo_de_asignatura": "C3P20132",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Medianero Burga, David Elpifio",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C4S20214",
+    "asignatura": "METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Moscoso Paucarchuco, Ketty Marilu",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "B Y F",
+    "codigo_de_asignatura": "C3S20124",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Obando Peralta, Ena Cecilia",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "B Y F",
+    "codigo_de_asignatura": "C3P20144",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Pastor Carrasco, Carlos Alberto",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "CPGE",
+    "codigo_de_asignatura": "C3S21424",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Pecho Rafael, Mélida Herlinda",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "CPGE",
+    "codigo_de_asignatura": "C3S21414",
+    "asignatura": "SEMINARIO DE METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Pichardo Luján, Carmen Eliana",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20322",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Rengifo Lozano, Raúl Alberto",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20314",
+    "asignatura": "SEMINARIO DE METODOLOGÍA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Revilla Reto, Rafael",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C4S20233",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Rodriguez Arroyo, José",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C4S20213",
+    "asignatura": "METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Rodriguez Ramirez, Eliezer",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20333",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Romero Vela, Sonia Lidia",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:01"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20333",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Rudas Murga, Cyntia Raquel",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20343",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Tuesta Pedraza, Wilson Alexander",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "FP",
+    "codigo_de_asignatura": "C2S20434",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Ugarte Casafranca, Walter David",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C4S20222",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Vargas Salazar, Ivonne Yanete",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "B Y F",
+    "codigo_de_asignatura": "C3S20115",
+    "asignatura": "METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Vasquez Gil, María Eugenia",
+    "seccion": 2,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "CGGP",
+    "codigo_de_asignatura": "C2S20343",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Vasquez Ramirez, Mary Maribel",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "CIA",
+    "codigo_de_asignatura": "C4S20222",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Zapata Urdiales, Juan Jorge",
+    "seccion": 1,
+    "horarios": {
+      "MIÉRCOLES": "19:00-22:00"
+    },
+    "rectificacion": false
+  }
+]
