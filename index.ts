@@ -2,7 +2,7 @@ import {readFile, utils} from 'xlsx'
 import fixScheduleRow from "./utils/fixScheduleRow.ts";
 import type ScheduleRow from "./types/schedules/ScheduleRow";
 
-const filename = "horarios.sabado.raw";
+const filename = "horarios.domingo.raw";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
