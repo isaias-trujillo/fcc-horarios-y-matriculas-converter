@@ -1,0 +1,305 @@
+[
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO014",
+        "asignatura": "LENGUAJE I",
+        "aula": "310-T",
+        "docente": "FERRADAS MARTINEZ, MÓNICA DE LOURDES",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "LUNES": "13:00-14:30 /14:30 - 15:15",
+            "VIERNES": "16:00-17:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO013",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "310-T",
+        "docente": "MERMA MORA, MIGUEL ANGEL",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "14:30-16:00",
+            "SÁBADO": "14:30-16:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO016",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "310-T",
+        "docente": "QUICAÑO TENORIO, MARCOS ANTONIO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "14:30-16:00",
+            "VIERNES": "13:00-14:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO015",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "310-T",
+        "docente": "CABRERA LLERENA, HUGO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "16:00-17:30",
+            "SÁBADO": "13:00-14:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO012",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "310-T",
+        "docente": "LOZADA PEDRAZA, IVÁN GONZALO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "LUNES": "15:20-16:10 / 16:20-17:50",
+            "JUEVES": "16:00-17:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO011",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "310-T",
+        "docente": "ORNA BARILLAS, JESUS MARTÍN",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "14:30-16:00",
+            "JUEVES": "13:00-14:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO017",
+        "asignatura": "INGLÉS I",
+        "aula": "310-T",
+        "docente": "TAPIA BARBOZA,WILMER",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "13:00-14:30",
+            "VIERNES": "14:30-16:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AE011",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "310-T",
+        "docente": "MERINO OSORIO, MERILUZ",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "16:00-17:30",
+            "SÁBADO": "16:00-17:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO014",
+        "asignatura": "LENGUAJE I",
+        "aula": "311-T",
+        "docente": "ORELLANO ANTUNEZ, JULIO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "LUNES": "15:20-16:10 / 16:20-17:50",
+            "MIÉRCOLES": "13:00-14:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO013",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "311-T",
+        "docente": "VERGARA MONCADA, RAÚL JESÚS",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "14:30-16:00",
+            "VIERNES": "13:00-14:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO016",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "311-T",
+        "docente": "TANTALEAN VALIENTE, ADOLFO GUSTVA",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "SÁBADO": "14:30-16:00/16:00-17:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO015",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "311-T",
+        "docente": "DÍAZ FLORES GLADYS GRACIELA",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "14:30-16:00",
+            "VIERNES": "14:30-16:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO012",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "311-T",
+        "docente": "SALAZAR FLORES, ELIZABETH RUTH",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "MIÉRCOLES": "16:00-17:30",
+            "JUEVES": "15:20-16:10 / 16:20-17:50"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO011",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "311-T",
+        "docente": "ACOSTA DE LA CRUZ, PAOLO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "13:00-14:30",
+            "VIERNES": "16:00-17:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AO017",
+        "asignatura": "INGLÉS I",
+        "aula": "311-T",
+        "docente": "LÉVANO VICENTE, CLARA CLAUDINA",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "16:00-17:30",
+            "SÁBADO": "13:00-14:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "CFF",
+        "codigo_de_asignatura": "25115AE011",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "311-T",
+        "docente": "MERINO OSORIO, MERILUZ",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 2,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "13:00-14:30",
+            "JUEVES": "13:00-14:30"
+        },
+        "rectificacion": false
+    }
+]
