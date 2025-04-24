@@ -1,0 +1,567 @@
+[
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "SJL 03-T",
+        "docente": "CAYUELA BARRUEZO, MIGUEL ÁNGEL",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "14:00 -15:30 /15:30 - 17:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113144",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "SJL 03-T",
+        "docente": "FERRADAS MARTINEZ, MÓNICA DE LOURDES",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "14:00-15:30 / 15:30-17:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113143",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "SJL 03-T",
+        "docente": "MARCELO MALLQUI, MARCO ANTONIO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "17:00-18:30",
+            "MIÉRCOLES": "17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113142",
+        "asignatura": "LENGUAJE I",
+        "aula": "SJL 03-T",
+        "docente": "OBREGÓN NICOLAS, KARIM GRACE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "JUEVES": "14:00-15:30 / 15:30-17:00 / 17:00-17:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113149",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "SJL 03-T",
+        "docente": "QUISPE SANCHEZ, NORMA",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "14:00-15:30 / 15:30-17:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113146",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "SJL 03-T",
+        "docente": "ROMERO LARRREATEGUI, EDWARD FREDERIk",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "SÁBADO": "14:00-15:30 / 15:30-17:00 / 17:00-17:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113147",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "SJL 03-T",
+        "docente": "SALAZAR VARGAS, MONICA BETSABE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "17:00-18:30",
+            "VIERNES": "15:30-17:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "AUD",
+        "codigo_de_asignatura": "113148",
+        "asignatura": "INGLÉS I",
+        "aula": "SJL 03-T",
+        "docente": "ZUTA ZUMAETA, FRANCISCO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "VIERNES": "14:00-15:30 / 17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "SJL 01-T",
+        "docente": "CAYUELA BARRUEZO, MIGUEL ÁNGEL",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "09:40-11:10",
+            "JUEVES": "15:30 -17:00 / 17.00 - 18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111143",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "SJL 01-T",
+        "docente": "CHUMBE RODRÍGUEZ, ALDO CHRISTIAN",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "15:30-17:00/ 17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111146",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "SJL 01-T",
+        "docente": "CHUQUISPUMA CAYCHO, MIGUEL LUIS",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "MIÉRCOLES": "14:00-15:30 / 15:30-17:00 / 17:00-17:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111142",
+        "asignatura": "LENGUAJE I",
+        "aula": "SJL 01-T",
+        "docente": "PUMA HANCCO, MELISSA JENNIFER",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "LUNES": "14:00-15:30 / 15:30-17:00 / 17:00-17:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111149",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "SJL 01-T",
+        "docente": "QUISPE SANCHEZ, NORMA",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "SÁBADO": "14:00-15:30 / 15:30-17:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111144",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "SJL 01-T",
+        "docente": "QUISPE SANCHEZ, NORMA",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "VIERNES": "15:30-17:00 / 17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111147",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "SJL 01-T",
+        "docente": "SALAZAR VARGAS, MONICA BETSABE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "14:00-15:30",
+            "VIERNES": "14:00-15:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111148",
+        "asignatura": "INGLÉS I",
+        "aula": "SJL 01-T",
+        "docente": "ZUTA ZUMAETA, FRANCISCO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "14:00-15:30",
+            "SÁBADO": "17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111351",
+        "asignatura": "ESTADÍSTICA DESCRIPTIVA Y PROBABILIDADES",
+        "aula": "SJL 01-M",
+        "docente": "CHÁVEZ FLORES, ERICK",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "09:40-11:10/ 11:20-12:50"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111349",
+        "asignatura": "FUNDAMENTOS PRÁCTICOS DE CONTABILIDAD Y COSTOS",
+        "aula": "SJL 01-M",
+        "docente": "LOLI BONILLA, CÉSAR ENRIQUE",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "6",
+            "HT": "2",
+            "HP": "4",
+            "VIERNES": "08:09:30 / 09:40-11:10 / 11:20-12:05"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111352",
+        "asignatura": "ECONOMÍA GENERAL",
+        "aula": "SJL 01-M",
+        "docente": "MARCELO MALLQUI, MARCO ANTONIO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "SÁBADO": "08:00-09:30 / 09:40-11:10"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111350",
+        "asignatura": "MATEMÁTICA FINANCIERA",
+        "aula": "SJL 01-M",
+        "docente": "MARCELO MALLQUI, MARCO ANTONIO",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "6",
+            "HT": "2",
+            "HP": "4",
+            "MIÉRCOLES": "08:00-09:30 / 09:40-11:10 / 11:20-12:50"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111353",
+        "asignatura": "ADMINISTRACIÓN GENERAL I",
+        "aula": "SJL 01-M",
+        "docente": "VERGARA CABADA, RUDITH MARÍA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "08:00-09:30 / 09:40-11:10"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111354",
+        "asignatura": "DERECHO CONSTITUCIONAL Y CIVIL",
+        "aula": "SJL 01-M",
+        "docente": "VERGARA CABADA, RUDITH MARÍA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "11:20-12:50",
+            "JUEVES": "08:00-09:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 3,
+        "escuela": "C",
+        "codigo_de_asignatura": "111355",
+        "asignatura": "DERECHO TRIBUTARIO",
+        "aula": "SJL 01-M",
+        "docente": "VERGARA CABADA, RUDITH MARÍA",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MARTES": "08:00-09:30 / 09:40-11:10"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112145",
+        "asignatura": "HISTORIA DEL PERÚ EN EL CONTEXTO MUNDIAL CONTEMPORÁNEO",
+        "aula": "SJL 02-T",
+        "docente": "CAYUELA BARRUEZO, MIGUEL ÁNGEL",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "MIÉRCOLES": "14:00 -15:30 /15:30 - 17:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112146",
+        "asignatura": "MATEMÁTICA I",
+        "aula": "SJL 02-T",
+        "docente": "CHUQUISPUMA CAYCHO, MIGUEL LUIS",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "VIERNES": "14:00-15:30 / 15:30-17:00 / 17:00-17:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112144",
+        "asignatura": "FILOSOFÍA Y ÉTICA",
+        "aula": "SJL 02-T",
+        "docente": "FERRADAS MARTINEZ, MÓNICA DE LOURDES",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "SÁBADO": "11:00-14:00"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112149",
+        "asignatura": "DESARROLLO PERSONAL",
+        "aula": "SJL 02-T",
+        "docente": "QUESQUÉN ALARCÓN, ERICK",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "SÁBADO": "14:30-16:00 / 16:00-17:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112142",
+        "asignatura": "LENGUAJE I",
+        "aula": "SJL 02-T",
+        "docente": "RONCEROS LEVANO ALIDE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "5",
+            "HT": "1",
+            "HP": "4",
+            "MARTES": "14:00-15:30 / 15:30-17:00 / 17:00-17:45"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112143",
+        "asignatura": "MÉTODOS DE ESTUDIO UNIVERSITARIO",
+        "aula": "SJL 02-T",
+        "docente": "RONCEROS LEVANO ALIDE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "14:00-15:30",
+            "MIÉRCOLES": "17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112147",
+        "asignatura": "DOCTRINA CONTABLE",
+        "aula": "SJL 02-T",
+        "docente": "SALAZAR VARGAS, MONICA BETSABE",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "15:30-17:00 / 17:00-18:30"
+        },
+        "rectificacion": false
+    },
+    {
+        "ciclo": 1,
+        "escuela": "GT",
+        "codigo_de_asignatura": "112148",
+        "asignatura": "INGLÉS I",
+        "aula": "SJL 02-T",
+        "docente": "ZUTA ZUMAETA, FRANCISCO",
+        "turno": "T",
+        "orden_del_turno": 1,
+        "seccion": 1,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "LUNES": "15:30-17:00 / 17:00-18:30"
+        },
+        "rectificacion": false
+    }
+]
