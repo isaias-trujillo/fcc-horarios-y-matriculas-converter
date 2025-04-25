@@ -1,0 +1,20 @@
+[
+    {
+        "ciclo": 1,
+        "escuela": "C",
+        "codigo_de_asignatura": "111148",
+        "asignatura": "INGLÉS I",
+        "aula": "OYON-01-M",
+        "docente": "ESPINDOLA MILLA ARMANDO JUNIOR",
+        "turno": "M",
+        "orden_del_turno": 0,
+        "seccion": 10,
+        "horarios": {
+            "H.SEM": "4",
+            "HT": "2",
+            "HP": "2",
+            "JUEVES": "08.45-12.30"
+        },
+        "rectificacion": false
+    }
+]
