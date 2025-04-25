@@ -1,0 +1,1346 @@
+[
+  {
+    "ciclo": 3,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S222A1",
+    "asignatura": "(ELECTIVO) PEDAGODIA UNIVERSITARIA",
+    "docente": "Obregon Nicolas, Karim Grace",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3P22242",
+    "asignatura": "AUDITORIA ESPECIALIZADA DEL SECTOR PUBLICO",
+    "docente": "Lazo Chucos, Gilmer",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22221",
+    "asignatura": "AUDITORIA PRESUPUESTAL",
+    "docente": "Lazo Chucos, Gilmer",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22231",
+    "asignatura": "AUDITORIAS DE TECNOLOGIAS DE LA INFORMACION",
+    "docente": "Rojas Medina, Julio César",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22211",
+    "asignatura": "CONTABILIDAD Y PRESUPUESTO GUBERNAMENTAL",
+    "docente": "Laban Elera, Hugo Neptali",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22213",
+    "asignatura": "CONTROL INTERNO Y GESTION DE RIESGOS EN EL ESTADO",
+    "docente": "Mogrovejo Espinoza, Martín Edmundo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22223",
+    "asignatura": "ESTADISTICA APLICADA A LA INVESTIGACION",
+    "docente": "Chumpitaz Ramos, Domingo Guzmán",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3P22241",
+    "asignatura": "INFORMES DE AUDITORIA GUBERNAMENTAL",
+    "docente": "Mogrovejo Espinoza, Martín Edmundo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22214",
+    "asignatura": "METODOLOGÍA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Gomez Jacinto, Luis Gerardo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22224",
+    "asignatura": "SEMINARIO DE AUDITORIA DE DESEMPEÑO GUBERNAMENTAL",
+    "docente": "Argandoña Dueñas, Marco Antonio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22212",
+    "asignatura": "SISTEMA DE GESTION PUBLICA",
+    "docente": "Castillo Torrealva, Luis Juan",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22232",
+    "asignatura": "TALLER DE AUDITORIA FINANCIERA GUBERNAMENTAL",
+    "docente": "Chavez Bravo, Juan Carlos",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22234",
+    "asignatura": "TALLER DE ETICA Y TRANSPARENCIA EN EL SECTOR PUBLICO",
+    "docente": "Baca Morante, Yanette Armida",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3P22244",
+    "asignatura": "TALLER DE INVESTIGACION DE LA AUDITORIA FORENSE Y ANTICORRRUPCION",
+    "docente": "Durand Saavedra, Demetrio Pedro",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22222",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Holgado Dorado, Kilder",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3S22233",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Gomero Gonzales, Nicko Alberto",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGCG",
+    "codigo_de_asignatura": "C3P22243",
+    "asignatura": "TALLER DE TESIS III (FUSION AT)",
+    "docente": "Ramos Costilla, Jhonny Martin",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A223",
+    "asignatura": "TALLER DE INVESTIGACION DE LA GESTION EMPRESARIAL Y PROCESOS ADMINISTRATIVOS",
+    "docente": "Ortiz Burga, Arturo Guillermo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A2A2",
+    "asignatura": "(e) TALLER DE CONTROL INTERNO",
+    "docente": "Granda Carazas, Segundo Eloy",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A231",
+    "asignatura": "AUDITORIA DE TECNOLOGIAS DE LA INFORMACION",
+    "docente": "Rojas Medina, Julio César",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3P21241",
+    "asignatura": "AUDITORIA FORENSE",
+    "docente": "Durand Saavedra, Demetrio Pedro",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A213",
+    "asignatura": "DOCTRINA Y FILOSOFIA CONTABLE",
+    "docente": "Masuda Toyofuku, Victor Ricardo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A233",
+    "asignatura": "ESTADISTICA APLICADA A LA INVESTIGACION",
+    "docente": "Cerna Maguiña, Hector Felix",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A221",
+    "asignatura": "GOBIERNO CORPORATIVO",
+    "docente": "Elgegren Apuela, José Antonio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A212",
+    "asignatura": "HABILIDADES GERENCIALES",
+    "docente": "Palomino Silva, Julio Andrés",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A214",
+    "asignatura": "METODOLOGÍA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Hinojosa Perez, José Adolfo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A211",
+    "asignatura": "NIA (ISA)",
+    "docente": "Flores Konja, Adrián Alejandro",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A234",
+    "asignatura": "SEMINARIO DE AUDITORIA FINANCIERA (DICTAMENES DE AUDITORIA)",
+    "docente": "Urbano Ventocilla, Cesar Maximiliano",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3P21244",
+    "asignatura": "SEMINARIO DE ÉTICA EN LOS NEGOCIOS",
+    "docente": "Salazar Frisancho, Angel Roberto",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A224",
+    "asignatura": "TALLER DE ANALISIS DE RIESGOS Y PROCESOS",
+    "docente": "Villacorta Cavero, Armando Manuel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3P21243",
+    "asignatura": "TALLER DE NEGOCIACIÓN Y LIDERAZGO",
+    "docente": "Olortegui Muro, Camilo Adrian",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A222",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Caballero Montañez, Raúl Walter",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3P21242",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Rozas Flores, Alan Errol",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AGE",
+    "codigo_de_asignatura": "C3S2A232",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Garay Argandoña, Rafael Antonio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3P213A3",
+    "asignatura": "(ELECTIVO) CODIGO TRIBUTARIO APLICADO",
+    "docente": "Chavez Gnzales, Angel Marco",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A321",
+    "asignatura": "ANÁLISIS ECONOMICO Y FINANCIERO DE LOS TRIBUTOS",
+    "docente": "Mejia Velasquez, Gustavo Moises",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A321",
+    "asignatura": "ANÁLISIS ECONOMICO Y FINANCIERO DE LOS TRIBUTOS",
+    "docente": "Mejia Velasquez, Gustavo Moises",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3P21341",
+    "asignatura": "AUDITORIA DEL SISTEMA INFORMATICO CONTABLE",
+    "docente": "Vergara Moncada, Raúl Jesús",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A331",
+    "asignatura": "AUDITORIA TRIBUTARIA: PROCESOS Y OPERACIONES CON NO DOMICILIADOS",
+    "docente": "Vasquez Tarazona, Catya Evelyn",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A331",
+    "asignatura": "AUDITORIA TRIBUTARIA: PROCESOS Y OPERACIONES CON NO DOMICILIADOS",
+    "docente": "De Velazco Borda, Jorge Luis",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3P21344",
+    "asignatura": "COMPLIANCE Y ANALISIS DE OPERACIONES CON NO DOMICILIADOS",
+    "docente": "Flores Espinoza, Carlos Augusto",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A311",
+    "asignatura": "FUNDAMENTOS DE AUDITORIA TRIBUTARIA",
+    "docente": "Vasquez Tarazona, Catya Evelyn",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A332",
+    "asignatura": "NIC Y NIIF CON INCIDENCIA TRIBUTARIA",
+    "docente": "Caceres Castillo, Danny Jimmy Claudio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21332",
+    "asignatura": "NIC Y NIIF CON INCIDENCIA TRIBUTARIA",
+    "docente": "Cáceres Castillo Danny Jimmy Claudio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A322",
+    "asignatura": "SEMINARIO DE ESTADISTICA APLICADA A LA INVESTIGACION",
+    "docente": "Chumpitaz Ramos, Domingo Guzmán",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A322",
+    "asignatura": "SEMINARIO DE ESTADISTICA APLICADA A LA INVESTIGACION",
+    "docente": "Fiestas Flores , Roberto Carlos",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A312",
+    "asignatura": "SEMINARIO DE INVESTIGACIÓN DE AUDITORIA LABORAL",
+    "docente": "Collantes Navarrete, Victor Eduardo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21333",
+    "asignatura": "SEMINARIO DE INVESTIGACIONES DE AUDITORIA TRIBUTARIA SECTORIAL",
+    "docente": "Rojas Saldivar, Carlos Edwin",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21333",
+    "asignatura": "SEMINARIO DE INVESTIGACIONES DE AUDITORIA TRIBUTARIA SECTORIAL",
+    "docente": "Rojas Saldivar, Carlos Edwin",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A314",
+    "asignatura": "SEMINARIO DE METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Rios Delgado, Teresa Jesús",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A314",
+    "asignatura": "SEMINARIO DE METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Castro Díaz, Esteban",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3P21342",
+    "asignatura": "TALLER DE INVESTIGACION DE PLANEAMIENTO TRIBUTARIO",
+    "docente": "Varela Maquezado, Danitza Solange",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A313",
+    "asignatura": "TALLER DE INVESTIGACION DE DERECHO FINANCIERO Y TRIBUTARIO",
+    "docente": "Chavez Gonzales, Angel Marco",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A323",
+    "asignatura": "TALLER DE NORMAS DE AUDITORIA TRIBUTARIA",
+    "docente": "Requena Yachachin, María Luisa",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A323",
+    "asignatura": "TALLER DE NORMAS DE AUDITORIA TRIBUTARIA",
+    "docente": "Villagomez Chinchay, Juan Alberto",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A324",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Remuzgo Huamán, Sara Emilia",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S2A324",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Fuster Guillen, Doris Elida",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21334",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Robles Villanueva, Oscar Antonio",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21334",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Miranda Avalos Sonia Jackeline",
+    "seccion": 3,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21334",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Tantalean Odar, Cristhian Fernando",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3P21343",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Cárdenas Nuñez,Gilberto José",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3P21343",
+    "asignatura": "TALLER DE TESIS III (FUSION AGCG)",
+    "docente": "Ramos Costilla, Jhonny Martin",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P102A1",
+    "asignatura": "(ELECTIVO) DOCTRINA Y FILOSOFIA DE LA CONTABILIDAD",
+    "docente": "Flores Konja, Adrián Alejandro",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P102A5",
+    "asignatura": "(ELECTIVO) FINANZAS INTERNACIONALES",
+    "docente": "Cotrina Reyes, Lázaro Miguel Angel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P102A3",
+    "asignatura": "(ELECTIVO) PROCESOS DE CERTIFICACION Y ACREDITACION",
+    "docente": "Villanueva Ipanaqué, Carmen Isabel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10212",
+    "asignatura": "ANALISIS ESTRUCTURAL DE LA INDUSTRIA",
+    "docente": "Casavilca Maldonado, Edmundo Rafael",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 5,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C2010152",
+    "asignatura": "DIRECCION DE TESIS I (FUSION DPFST)",
+    "docente": "Villanueva Gonzales, Felix Martín",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 6,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C2010162",
+    "asignatura": "DIRECCION DE TESIS II (FUSION DPFST)",
+    "docente": "Vivanco Aquino, Ivan Dazir Berleine",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10221",
+    "asignatura": "ESCRITURA ACADÉMICA/CIENTÍFICA",
+    "docente": "Romaní Miranda, Ursula Isabel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10211",
+    "asignatura": "FILOSOFIA DE LA CIENCIA (EPISTEMOLOGIA)",
+    "docente": "Eyzaguirre Quispe, David",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "12:15 - 13:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 6,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C2010161",
+    "asignatura": "GESTION SOCIAL SOSTENIBLE",
+    "docente": "Pinglo Ramirez, Miguel Angel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08.00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 5,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C2010151",
+    "asignatura": "NEGOCIOS GLOBALES",
+    "docente": "Asencios Espinoza, Encarnación Melecio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08.00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10241",
+    "asignatura": "NORMATIVIDAD INTERNACIONAL DE CONTABILIDAD Y AUDITORIA",
+    "docente": "Granda Carazas, Segundo Eloy",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10213",
+    "asignatura": "TESIS DOCTORAL I",
+    "docente": "Orellano Antunez, Juan Carlos",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10222",
+    "asignatura": "TESIS DOCTORAL II FUSION ( PFST)",
+    "docente": "Suarez Almeira, Miguel Angel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10231",
+    "asignatura": "TESIS DOCTORAL III",
+    "docente": "Montoya Hernández, Pedro Isaias",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C3P10242",
+    "asignatura": "TESIS DOCTORAL IV",
+    "docente": "Pajares Flores, Margarita Isabel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S101A1",
+    "asignatura": "(ELECTIVO) MACROECONOMIA NACIONAL, RECAUDACION TRIBUTARIA Y POLITICA FISCAL",
+    "docente": "Diaz Angeles Gracee",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S101A2",
+    "asignatura": "(ELECTIVO) SISTEMAS TRIBUTARIOS COMPARADOS DE LOS PAISES LATINOAMERICANOS",
+    "docente": "Cayo Quispe, Luis Gabriel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S101A2",
+    "asignatura": "(ELECTIVO) SISTEMAS TRIBUTARIOS COMPARADOS DE LOS PAISES LATINOAMERICANOS",
+    "docente": "Cayo Quispe, Luis Gabriel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "12.00- 13:30"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 5,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C2010251",
+    "asignatura": "DIRECCION DE TESIS I (FUSION DCCE)",
+    "docente": "Villanueva Gonzales, Felix Martín",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 6,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C2010261",
+    "asignatura": "DIRECCION DE TESIS II (FUSION DCCE)",
+    "docente": "Vivanco Aquino, Ivan Dazir Berleine",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10131",
+    "asignatura": "ESTADISTICA INTEGRAL DESCRIPTIVA E INFERENCIAL APLICADA A LA ECONOMIA , LA TRIBUTACION Y LA POLITICA FISCAL",
+    "docente": "Robles Villanueva, Oscar Antonio",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10121",
+    "asignatura": "FINANZAS PUBLICAS, SISTEMA TRIBUTARIO Y POLITICA FISCAL",
+    "docente": "Llaque Sanchez, Fredy Richard",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10122",
+    "asignatura": "RECAUDACION TRIBUTARIA, EVASION Y ELUSION TRIBUTARIA E INTELIGENCIA TRIBUTARIA",
+    "docente": "Cornejo Alpaca, Alfonso Ricardo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10112",
+    "asignatura": "SISTEMA DE RECAUDACION TRIBUTARIO NACIONAL",
+    "docente": "Llaque Sanchez, Fredy Richard",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10111",
+    "asignatura": "SISTEMA Y DOCTRINA TRIBUTARIO NACIONAL",
+    "docente": "Cotrina Reyes, Lázaro Miguel Angel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "12.00- 13:30"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10142",
+    "asignatura": "TALLER DE REDACCION DE ARTICULOS CIENTIFICOS",
+    "docente": "Mejía Valdiviezo, Eva Mercedes",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00 - 18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10113",
+    "asignatura": "TESIS DOCTORAL I",
+    "docente": "Lizarraga Perez, Luis Alberto",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10123",
+    "asignatura": "TESIS DOCTORAL II (FUSION DCCE)",
+    "docente": "Suarez Almeira, Miguel Angel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10132",
+    "asignatura": "TESIS DOCTORAL III",
+    "docente": "Cayo Quispe, Luis Gabriel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C3S10143",
+    "asignatura": "TESIS DOCTORAL IV",
+    "docente": "Bouby Tolentino, Francisca",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00 - 11:45"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3P223A5",
+    "asignatura": "(ELECTIVO) TRIBUTACION PATRIMONIAL Y MUNICIPAL",
+    "docente": "Barrera Ayala, Saul Fernando",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B332",
+    "asignatura": "AUDITORIA TRIBUTARIA TEORIA Y CASUISTICA",
+    "docente": "Requena Yachachin, María Luisa",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B311",
+    "asignatura": "DOCTRINA Y FILOSOFIA CONTABLE",
+    "docente": "Talla Ramos, Sabino",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B321",
+    "asignatura": "IMPOSICIÓN INDIRECTA: DOCTRINA Y APLICACIÓN",
+    "docente": "Ancaya Cortez, Emilio Agustin",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B314",
+    "asignatura": "METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Morillo Flores, John Janel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B314",
+    "asignatura": "METODOLOGIA Y DISEÑO DE LA INVESTIGACION",
+    "docente": "Molina Napurí, Aurora del Carmen",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B312",
+    "asignatura": "POLITICA FISCAL Y TRIBUTARIA",
+    "docente": "Bocanegra Landeras, Alvaro Anthony",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B322",
+    "asignatura": "SEMINARIO DE ESTADISTICA APLICADA A LA INVESTIGACION",
+    "docente": "Cerna Maguiña, Hector Felix",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B323",
+    "asignatura": "SEMINARIO DE INVESTIGACION DE IMPOSICION DIRECTA: DOCTRINA Y APLICACIÓN",
+    "docente": "Carrasco Buleje, Luciano",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "15:00-18:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3P22342",
+    "asignatura": "SEMINARIO DE INVESTIGACION DEL PLANEAMIENTO TRIBUTARIO",
+    "docente": "Carrillo Bautista, Miguel Angel",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3P22341",
+    "asignatura": "SEMINARIO DE NORMAS CONTABLES Y TRIBUTACION",
+    "docente": "Guerreros Arcos, Omar Rodolfo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B333",
+    "asignatura": "TALLER DE INVESTIGACIÓN DEL CODIGO TRIBUTARIO APLICADO",
+    "docente": "Camus Graham, Dante Julian",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 1,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B313",
+    "asignatura": "TALLER DE INVESTIGACIÓN DEL DERECHO CONSTITUCIONAL",
+    "docente": "Rios Diestro, Rodolfo Martin",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B324",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Vento Egoavil, Rodolfo Eduardo",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 2,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B324",
+    "asignatura": "TALLER DE TESIS I",
+    "docente": "Macazana Fernández, Dante Manuel",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B334",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Burgos Zavaleta, Victor Fernando Jesús",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B334",
+    "asignatura": "TALLER DE TESIS II",
+    "docente": "Castañeda Moreano, Rosa Milagros",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3P22343",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Tejada Estrada, Gina Coral",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 4,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3P22343",
+    "asignatura": "TALLER DE TESIS III",
+    "docente": "Inga Arias, Manuel Augusto",
+    "seccion": 2,
+    "horarios": {
+      "SÁBADO": "08:00-11:00"
+    },
+    "rectificacion": false
+  },
+  {
+    "ciclo": 3,
+    "escuela": "PST",
+    "codigo_de_asignatura": "C3S2B331",
+    "asignatura": "TRIBUTACION INTERNACIONAL Y OPERACIONES CON NO DOMICILIADOS",
+    "docente": "Nava Tolentino, Jose Jorge",
+    "seccion": 1,
+    "horarios": {
+      "SÁBADO": "11:00-14:00"
+    },
+    "rectificacion": false
+  }
+]
