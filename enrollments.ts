@@ -28,7 +28,7 @@ const rows = (utils.sheet_to_json(ws) as EnrollementRow[]).map(fixEnrollmentRow)
 
 
 
-const schedules = await Bun.file("data/horarios/horarios.completos.processed.json").json() as FixedScheduleRow[];
+const schedules = await Bun.file("data/horarios/horarios.docentes-restantes.json").json() as FixedScheduleRow[];
 
 const noMatchedInSchedules = rows.filter(row => {
     if (!row) {
