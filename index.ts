@@ -2,7 +2,7 @@ import {readFile, utils} from 'xlsx'
 import fixScheduleRow from "./utils/fixScheduleRow.ts";
 import type ScheduleRow from "./types/schedules/ScheduleRow";
 
-const filename = "horarios/horarios.completos.raw";
+const filename = "horarios/original.raw";
 const path = `data/${filename}.xlsx`;
 
 const file = readFile(path);
@@ -23,16 +23,19 @@ if (!ws) {
     throw new Error("Worksheet not found");
 }
 
-const rows = (utils.sheet_to_json(ws) as ScheduleRow[]).map(fixScheduleRow).filter(Boolean);
+const rows = (utils.sheet_to_json(ws) as ScheduleRow[])
+    // .filter((r: any) => 'LUNES' in r && (r['LUNES'] as string).trim().length > 0)
+    .map(fixScheduleRow)
+    .filter(Boolean)
 
-Bun.write(`result/${filename}.json`, JSON.stringify(rows))
+Bun.write(`result/horarios/all.raw.json`, JSON.stringify(rows))
     .then((r) =>
         console.log(
-            `File result/${filename}.json created with rows: ${rows.length}`,
+            `File result/horarios/all.raw.json created with rows: ${rows.length}`,
         ),
     )
     .catch(
-        (e) => `Failed to create 'result/${filename}.json', error: ${e.message}`,
+        (e) => `Failed to create 'result/horarios/all.raw.json', error: ${e.message}`,
     );
 
 
