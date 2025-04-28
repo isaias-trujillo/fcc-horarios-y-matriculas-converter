@@ -24,18 +24,18 @@ if (!ws) {
 }
 
 const rows = (utils.sheet_to_json(ws) as ScheduleRow[])
-    // .filter((r: any) => 'LUNES' in r && (r['LUNES'] as string).trim().length > 0)
+    .filter((r: any) => 'LUNES' in r && (r['LUNES'] as string).trim().length > 0)
     .map(fixScheduleRow)
     .filter(Boolean)
 
-Bun.write(`result/horarios/all.raw.json`, JSON.stringify(rows))
+Bun.write(`result/horarios/lunes.raw.json`, JSON.stringify(rows))
     .then((r) =>
         console.log(
-            `File result/horarios/all.raw.json created with rows: ${rows.length}`,
+            `File result/horarios/lunes.raw.json created with rows: ${rows.length}`,
         ),
     )
     .catch(
-        (e) => `Failed to create 'result/horarios/all.raw.json', error: ${e.message}`,
+        (e) => `Failed to create 'result/horarios/lunes.raw.json', error: ${e.message}`,
     );
 
 
