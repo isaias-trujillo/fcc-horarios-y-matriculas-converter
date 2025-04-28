@@ -1,37 +1,5 @@
 [
   {
-    "ciclo": 3,
-    "escuela": "AT",
-    "codigo_de_asignatura": "C3S21333",
-    "asignatura": "SEMINARIO DE INVESTIGACIONES DE AUDITORIA TRIBUTARIA SECTORIAL",
-    "seccion": 1,
-    "identificacion": "01317302",
-    "apellido_paterno": "ROJAS",
-    "apellido_materno": "SALDÍVAR",
-    "nombres": "CARLOS EDWIN",
-    "dia_de_la_semana": "SÁBADO",
-    "hora_de_inicio": "11:00",
-    "hora_de_finalizacion": "14:00",
-    "rectificacion": false,
-    "aula": "N/A"
-  },
-  {
-    "ciclo": 3,
-    "escuela": "AT",
-    "codigo_de_asignatura": "C3S21333",
-    "asignatura": "SEMINARIO DE INVESTIGACIONES DE AUDITORIA TRIBUTARIA SECTORIAL",
-    "seccion": 1,
-    "identificacion": "01317302",
-    "apellido_paterno": "ROJAS",
-    "apellido_materno": "SALDÍVAR",
-    "nombres": "CARLOS EDWIN",
-    "dia_de_la_semana": "SÁBADO",
-    "hora_de_inicio": "11:00",
-    "hora_de_finalizacion": "14:00",
-    "rectificacion": false,
-    "aula": "N/A"
-  },
-  {
     "ciclo": 1,
     "escuela": "AT",
     "codigo_de_asignatura": "C3S2A314",
@@ -45,6 +13,58 @@
     "hora_de_inicio": "08:00",
     "hora_de_finalizacion": "11:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
+    "aula": "N/A"
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21334",
+    "asignatura": "TALLER DE TESIS II",
+    "seccion": 2,
+    "identificacion": "32762171",
+    "apellido_paterno": "ROBLES",
+    "apellido_materno": "VILLANUEVA",
+    "nombres": "OSCAR ANTONIO",
+    "dia_de_la_semana": "SÁBADO",
+    "hora_de_inicio": "08:00",
+    "hora_de_finalizacion": "11:00",
+    "rectificacion": false,
+    "otro_plan_de_estudios": false,
+    "aula": "N/A"
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21334",
+    "asignatura": "TALLER DE TESIS II",
+    "seccion": 3,
+    "identificacion": "42896086",
+    "apellido_paterno": "MIRANDA",
+    "apellido_materno": "AVALOS",
+    "nombres": "SONIA JACKELINE",
+    "dia_de_la_semana": "SÁBADO",
+    "hora_de_inicio": "08:00",
+    "hora_de_finalizacion": "11:00",
+    "rectificacion": false,
+    "otro_plan_de_estudios": false,
+    "aula": "N/A"
+  },
+  {
+    "ciclo": 3,
+    "escuela": "AT",
+    "codigo_de_asignatura": "C3S21334",
+    "asignatura": "TALLER DE TESIS II",
+    "seccion": 1,
+    "identificacion": "41043643",
+    "apellido_paterno": "TANTALEAN",
+    "apellido_materno": "ODAR",
+    "nombres": "CHRISTIAN FERNANDO",
+    "dia_de_la_semana": "SÁBADO",
+    "hora_de_inicio": "08:00",
+    "hora_de_finalizacion": "11:00",
+    "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -61,6 +81,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -77,6 +98,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -93,6 +115,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -109,6 +132,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -125,6 +149,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -141,6 +166,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -157,6 +183,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -173,6 +200,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -189,6 +217,7 @@
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -205,6 +234,7 @@
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -221,6 +251,24 @@
     "hora_de_inicio": "12:15",
     "hora_de_finalizacion": "13:45",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
+    "aula": "N/A"
+  },
+  {
+    "ciclo": 5,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C2010151",
+    "asignatura": "NEGOCIOS GLOBALES",
+    "seccion": 1,
+    "identificacion": "08490635",
+    "apellido_paterno": "ASENCIOS",
+    "apellido_materno": "ESPINOZA",
+    "nombres": "ENCARNACION MELECIO",
+    "dia_de_la_semana": "SÁBADO",
+    "hora_de_inicio": "08:00",
+    "hora_de_finalizacion": "11:00",
+    "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -237,7 +285,45 @@
     "hora_de_inicio": "08:00",
     "hora_de_finalizacion": "11:45",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
+  },
+  {
+    "ciclo": 5,
+    "escuela": "DCCE",
+    "codigo_de_asignatura": "C2010152",
+    "asignatura": "DIRECCION DE TESIS I",
+    "seccion": 1,
+    "identificacion": "07816181",
+    "apellido_paterno": "VILLANUEVA",
+    "apellido_materno": "GONZALEZ",
+    "nombres": "FELIX MARTIN",
+    "dia_de_la_semana": "SÁBADO",
+    "hora_de_inicio": "15:00",
+    "hora_de_finalizacion": "18:45",
+    "rectificacion": false,
+    "otro_plan_de_estudios": false,
+    "aula": "N/A"
+  },
+  {
+    "ciclo": 5,
+    "escuela": "DPFST",
+    "codigo_de_asignatura": "C2010251",
+    "asignatura": "DIRECCION DE TESIS I",
+    "seccion": 1,
+    "identificacion": "07816181",
+    "apellido_paterno": "VILLANUEVA",
+    "apellido_materno": "GONZALEZ",
+    "nombres": "FELIX MARTIN",
+    "dia_de_la_semana": "SÁBADO",
+    "hora_de_inicio": "15:00",
+    "hora_de_finalizacion": "18:45",
+    "rectificacion": true,
+    "otro_plan_de_estudios": false,
+    "aula": "N/A",
+    "codigo_de_asignatura_de_referencia": "C2010152",
+    "seccion_de_referencia": 1,
+    "aula_de_referencia": "N/A"
   },
   {
     "ciclo": 1,
@@ -253,6 +339,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -269,6 +356,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -285,6 +373,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -301,6 +390,7 @@
     "hora_de_inicio": "11:00",
     "hora_de_finalizacion": "14:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -317,6 +407,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -333,6 +424,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -349,6 +441,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -365,6 +458,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -381,6 +475,7 @@
     "hora_de_inicio": "08:00",
     "hora_de_finalizacion": "11:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -397,6 +492,7 @@
     "hora_de_inicio": "08:00",
     "hora_de_finalizacion": "11:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -413,6 +509,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -429,6 +526,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -445,6 +543,7 @@
     "hora_de_inicio": "08:00",
     "hora_de_finalizacion": "11:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -461,6 +560,7 @@
     "hora_de_inicio": "11:00",
     "hora_de_finalizacion": "14:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -477,6 +577,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -493,6 +594,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -509,6 +611,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -525,6 +628,7 @@
     "hora_de_inicio": "19:00",
     "hora_de_finalizacion": "22:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -541,6 +645,7 @@
     "hora_de_inicio": "11:00",
     "hora_de_finalizacion": "14:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   },
   {
@@ -557,6 +662,7 @@
     "hora_de_inicio": "15:00",
     "hora_de_finalizacion": "18:00",
     "rectificacion": false,
+    "otro_plan_de_estudios": false,
     "aula": "N/A"
   }
 ]
