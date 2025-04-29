@@ -21,7 +21,8 @@ if (!ws) {
     throw new Error("Worksheet not found");
 }
 
-const rows = utils.sheet_to_json(ws).filter((r: any) => (r['dia_de_la_semana'] as string) === 'MARTES');
+const rows = utils.sheet_to_json(ws)
+    .filter((r: any) => (r['dia_de_la_semana'] as string) === 'MARTES');
 
 Bun.write(`result/martes.${filename}.json`, JSON.stringify(rows))
     .then((r) =>
