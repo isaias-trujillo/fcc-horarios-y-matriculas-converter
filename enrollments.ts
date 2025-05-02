@@ -48,7 +48,7 @@ const noMatchedInSchedules = rows.filter(row => {
     }) ? false : row;
 }).filter(Boolean);
 
-const filterNotMatchedInEnrollments = (schedules: FixedScheduleRow[]) => schedules.filter((schedule) => {
+const filterNotMatchedInEnrollments = (schedules: FixedScheduleRow[]) => schedules.filter((schedule): (FixedScheduleRow | false) => {
     const toCompare = schedule.codigo_de_asignatura + schedule.seccion;
     const children = schedules.filter(s => `${s.codigo_de_asignatura_de_referencia}${s.seccion_de_referencia}` === toCompare);
     return rows.some(row => {
@@ -59,7 +59,7 @@ const filterNotMatchedInEnrollments = (schedules: FixedScheduleRow[]) => schedul
         if (group === toCompare) {
             return true;
         }
-        if (schedule.codigo_de_asignatura_de_referencia && schedule.seccion_de_referencia) {
+        if (schedule.rectificacion) {
             const reference = `${schedule.codigo_de_asignatura_de_referencia}${schedule.seccion_de_referencia}`;
             return reference === group;
         }
@@ -71,7 +71,7 @@ const filterNotMatchedInEnrollments = (schedules: FixedScheduleRow[]) => schedul
         ;
 })
 
-const notMatchedInEnrollments = filterNotMatchedInEnrollments(schedules);
+const notMatchedInEnrollments = filterNotMatchedInEnrollments(schedules).filter(Boolean);
 
 console.log(`Not found ${noMatchedInSchedules.length} enrollments in schedule`);
 console.log(`Not found ${notMatchedInEnrollments.length} schedules in enrollments`);
@@ -79,7 +79,7 @@ console.log(`Not found ${notMatchedInEnrollments.length} schedules in enrollment
 await Bun.write(`result/matriculas/matriculas.not-found.json`, JSON.stringify(noMatchedInSchedules));
 await Bun.write(`result/matriculas/horarios.not-found.json`, JSON.stringify(notMatchedInEnrollments));
 
-const chunkSize = 1000;
+const chunkSize = 1500;
 
 const chunks = Array.from({length: Math.ceil(rows.length / chunkSize)}, (_, i) => rows.slice(i * chunkSize, (i + 1) * chunkSize));
 
