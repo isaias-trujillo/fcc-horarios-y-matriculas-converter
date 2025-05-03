@@ -22,14 +22,14 @@ if (!ws) {
 }
 
 const rows = utils.sheet_to_json(ws)
-    .filter((r: any) => (r['dia_de_la_semana'] as string) === 'DOMINGO');
+    .filter((r: any) => (r['dia_de_la_semana'] as string) === 'SÁBADO');
 
-Bun.write(`result/domingo.${filename}.json`, JSON.stringify(rows))
+Bun.write(`result/sabado.${filename}.json`, JSON.stringify(rows))
     .then((r) =>
         console.log(
-            `File result/domingo.${filename}.json created with rows: ${rows.length}`,
+            `File result/sabado.${filename}.json created with rows: ${rows.length}`,
         ),
     )
     .catch(
-        (e) => `Failed to create 'result/domingo.${filename}.json', error: ${e.message}`,
+        (e) => `Failed to create 'result/sabado.${filename}.json', error: ${e.message}`,
     );
