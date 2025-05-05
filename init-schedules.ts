@@ -28,14 +28,14 @@ const rows = (utils.sheet_to_json(ws) as ScheduleRow[])
     .map(fixScheduleRow)
     .filter(Boolean)
 
-Bun.write(`result/horarios/all.v2.raw.json`, JSON.stringify(rows))
+Bun.write(`result/horarios/raw.json`, JSON.stringify(rows))
     .then((r) =>
         console.log(
-            `File result/horarios/all.v2.raw.json created with rows: ${rows.length}`,
+            `File result/horarios/raw.json created with rows: ${rows.length}`,
         ),
     )
     .catch(
-        (e) => `Failed to create 'result/horarios/all.v2.raw.json', error: ${e.message}`,
+        (e) => `Failed to create 'result/horarios/raw.json', error: ${e.message}`,
     );
 
 
