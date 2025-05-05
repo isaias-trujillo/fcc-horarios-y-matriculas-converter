@@ -28,7 +28,7 @@ if (!ws) {
 const rows = (utils.sheet_to_json(ws) as EnrollementRow[]).map(fixEnrollmentRow).filter(Boolean);
 
 
-const schedules = await Bun.file("data/horarios/all.processed.json").json() as FixedScheduleRow[];
+const schedules = await Bun.file("result/horarios/all.json").json() as FixedScheduleRow[];
 
 const noMatchedInSchedules = rows.filter(row => {
     if (!row) {
