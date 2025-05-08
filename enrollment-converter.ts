@@ -11,13 +11,16 @@ const careerCodes = {
   criminalistica: "CFF",
 } as const;
 
-Object.entries(careerCodes).forEach(async ([filename, code]) => {
+const name = `result/fichas_de_matriculas/all.json`;
+const enrollments = [];
+
+for (const [filename, code] of Object.entries(careerCodes)) {
   const path = `data/fichas_de_matriculas/${filename}.xls`;
   const exists = await Bun.file(path).exists();
 
   if (!exists) {
     console.log(`File ${path} not found`);
-    return;
+    continue;
   }
 
   const file = XLSX.readFile(path);
@@ -28,31 +31,35 @@ Object.entries(careerCodes).forEach(async ([filename, code]) => {
 
   for (let i = 0; i < sheets.length; i++) {
     const name = file.SheetNames[i];
-
-    if (!name) {
-      continue;
-    }
+    if (!name) continue;
 
     const ws = file.Sheets[name];
-
-    if (!ws) {
-      continue;
-    }
+    if (!ws) continue;
 
     const raw: FichaMatricula[] = XLSX.utils.sheet_to_json(ws);
     const parsed = mapRawToParsedFichas({ raw, escuela: code });
+
+    enrollments.push(parsed);
 
     const bound = Math.ceil(parsed.length / chunkSize);
     for (let j = 0; j < bound; j++) {
       chunks.push(parsed.slice(j * chunkSize, (j + 1) * chunkSize));
     }
   }
-  // create a new file per chunk with the total
-  chunks.forEach((chunk, index) => {
+
+  for (let index = 0; index < chunks.length; index++) {
+    const chunk = chunks[index];
+    if (!chunk) {
+      continue;
+    }
     const startRecordNumber = index * chunkSize + 1;
     const endRecordNumber = startRecordNumber + chunk.length - 1;
     const name = `result/fichas_de_matriculas/${filename}/chunk-${index}-from-${startRecordNumber}-to-${endRecordNumber}.json`;
     const json = JSON.stringify(chunk);
-    Bun.write(name, json).then((r) => console.log(r));
-  });
-});
+    await Bun.write(name, json);
+    console.log(`File ${name} created`);
+  }
+}
+
+await Bun.write(name, JSON.stringify(enrollments.flat()));
+console.log(`File ${name} created with ${enrollments.flat().length} rows`);
